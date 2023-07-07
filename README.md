@@ -30,6 +30,7 @@ The corpus consists of 1,000 novels originally written in Polish and initially p
 xxxxxxx
 
 ## Licence
+All texts in this collection are in the public domain.
 xxxxxxx
 
 ## Citation
