@@ -11,8 +11,7 @@ The corpus consists of 1,000 novels originally written in Polish and initially p
 - CLARIN-PL
 
 ## Data sources
-![Text sources](meta_logo.png)
-
+<img src="meta_belka.jpg">
 
 ## Corpus design
 
