@@ -8,10 +8,10 @@ The corpus consists of 1,000 novels originally written in Polish and initially p
 - Marek Kubis, Adam Mickiewicz University in Poznan
 - Cezary Rosiński, Patryk Hubar, Institute of Literary Research of the Polish Academy of Sciences
 - Agnieszka Karlińska, NASK National Research Institute
-- CLARIN-PL
+- Jan Wieczorek, Wroclaw University of Science and Technology
 
 ## Data sources
-<img src="meta_belka.jpg">
+![](meta_belka.jpg)
 
 ## Corpus design
 
