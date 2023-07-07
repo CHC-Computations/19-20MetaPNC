@@ -13,8 +13,8 @@
 2. Gender: female author 10%–50%
 3. Place of publication (three partitions): >=15% each
 4. Level of reception:
-  - no more than 2 reprints >= 30%
-  - more than 2 reprints >= 30%
+   - no more than 2 reprints >= 30%
+   - more than 2 reprints >= 30%
 
 ## Metadata
 
