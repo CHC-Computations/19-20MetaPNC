@@ -1,13 +1,21 @@
 # 19-20MetaPNC
 *Metadata-enriched Polish Novel Corpus from the 19th and 20th centuries*
 
+The corpus consists of 1,000 novels originally written in Polish and initially published as books between 1864 and 1939, featuring a plot timeframe set after 1815. The current version is v1.0.1.
+
 ## Contributors
+
+- Marek Kubis, UAM
+- Cezary Rosiński, Patryk Hubar, IBL PAN
+- Agnieszka Karlińska, NASK PIB
+- CLARIN-PL
+
+## Data sources
+xxxxxx
 
 ## Corpus design
 
-**Selection criteria:** novels originally written in Polish and first published as books between 1864 and 1939 with the time of the plot later than 1815
-
-**Balancing criteria:** 
+### Balancing criteria:
 1. Date: three literary eras distinguished in Polish literary studies determined by the date of first publication (>= 20% each)
    - Positivism (1864–1890)
    - Young Poland (1890–1918)
@@ -18,9 +26,11 @@
    - no more than 2 reprints >= 30%
    - more than 2 reprints >= 30%
   
-## Metadata
+### Metadata
+xxxxxxx
 
 ## Licence
+xxxxxxx
 
 ## Citation
 
