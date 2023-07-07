@@ -3,7 +3,8 @@
 
 ## Corpus design
 
-**Selection criteria:** novels originally written in Polish and first published as books between 1864 and 1939 with the time of the plot later than 1815 
+**Selection criteria:** novels originally written in Polish and first published as books between 1864 and 1939 with the time of the plot later than 1815
+
 **Balancing criteria:** 
 1. Date: three literary eras distinguished in Polish literary studies determined by the date of first publication (>= 20% each)
    - Positivism (1864–1890)
