@@ -23,3 +23,24 @@
 ## Citation
 
 Agnieszka Karlińska, Cezary Rosiński, Jan Wieczorek, Patryk Hubar, Jan Kocoń, Marek Kubis, Stanisław Woźniak, Arkadiusz Margraf, and Wiktor Walentynowicz. 2022. [Towards a contextualised spatial-diachronic history of literature: mapping emotional representations of the city and the country in Polish fiction from 1864 to 1939](https://aclanthology.org/2022.latechclfl-1.14). In *Proceedings of the 6th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature*, pages 115–125, Gyeongju, Republic of Korea. International Conference on Computational Linguistics.
+
+@inproceedings{karlinska-etal-2022-towards,
+    title = "Towards a contextualised spatial-diachronic history of literature: mapping emotional representations of the city and the country in {P}olish fiction from 1864 to 1939",
+    author = "Karli{\'n}ska, Agnieszka  and
+      Rosi{\'n}ski, Cezary  and
+      Wieczorek, Jan  and
+      Hubar, Patryk  and
+      Koco{\'n}, Jan  and
+      Kubis, Marek  and
+      Wo{\'z}niak, Stanis{\l}aw  and
+      Margraf, Arkadiusz  and
+      Walentynowicz, Wiktor",
+    booktitle = "Proceedings of the 6th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature",
+    month = oct,
+    year = "2022",
+    address = "Gyeongju, Republic of Korea",
+    publisher = "International Conference on Computational Linguistics",
+    url = "https://aclanthology.org/2022.latechclfl-1.14",
+    pages = "115--125",
+    abstract = "In this article, we discuss the conditions surrounding the building of historical and literary corpora. We describe the assumptions and method of making the original corpus of the Polish novel (1864-1939). Then, we present the research procedure aimed at demonstrating the variability of the emotional value of the concept of {``}the city{''} and {``}the country{''} in the texts included in our corpus. The proposed method considers the complex socio-political nature of Central and Eastern Europe, especially the fact that there was no unified Polish state during this period. The method can be easily replicated in studies of the literature of countries with similar specificities.",
+}
