@@ -1,5 +1,5 @@
 # 19-20MetaPNC
-*Metadata-enriched Polish Novel Corpus from the 19th and 20th centuries*
+***Metadata-enriched Polish Novel Corpus from the 19th and 20th centuries***
 
 The corpus consists of 1,000 novels originally written in Polish and initially published as books between 1864 and 1939, featuring a plot timeframe set after 1815. The current version is v1.0.1.
 
