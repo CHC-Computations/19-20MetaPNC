@@ -5,9 +5,9 @@ The corpus consists of 1,000 novels originally written in Polish and initially p
 
 ## Contributors
 
-- Marek Kubis, UAM
-- Cezary Rosiński, Patryk Hubar, IBL PAN
-- Agnieszka Karlińska, NASK PIB
+- Marek Kubis, Adam Mickiewicz University in Poznan
+- Cezary Rosiński, Patryk Hubar, Institute of Literary Research of the Polish Academy of Sciences
+- Agnieszka Karlińska, NASK National Research Institute
 - CLARIN-PL
 
 ## Data sources
