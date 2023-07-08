@@ -10,10 +10,13 @@ The corpus consists of 1,000 novels originally written in Polish and initially p
 - Agnieszka Karlińska, NASK National Research Institute
 - Jan Wieczorek, Wroclaw University of Science and Technology
 
-## Data sources
+## Corpus design
+
+The collected texts come from different sources. The initial set consisted of 100 novels from the [Polish ELTeC subcorpus]([https://zenodo.org/record/4662725](https://distantreading.github.io/ELTeC/pol/index.html), encoded in TEI format. Subsequently, an additional 193 texts from the Wolne Lektury library were added. The Wolne Lektury data is accessible in a custom XML format that preserves paragraph boundary information. Next, 225 novels from the Polish edition of the Wikisource project were included, encoded in MediaWiki format and proofread by Wikisource editors. The Polona digital library, maintained by the National Library of Poland, served as the final source of texts. It provides scans of printed books along with the OCR-derived textual layer. Approx. 6,000 digitized volumes were retrieved from Polona, which, after merging multi-volume editions of novels, resulted in a total of 4,808 texts.
+
 ![](meta_belka.jpg)
 
-## Corpus design
+Exactly one edition of each novel was selected from the 5,326 pieces of literary fiction that made up the original dataset. Texts that were not novels, that were written before or after the selected period, and that were set before 1815 were rejected. Duplicates were also identified and removed, resulting in a database of 1,707 unique novels. Measures were then taken to balance the corpus. 
 
 ### Balancing criteria:
 1. Date: three literary eras distinguished in Polish literary studies determined by the date of first publication (>= 20% each)
@@ -25,7 +28,9 @@ The corpus consists of 1,000 novels originally written in Polish and initially p
 4. Level of reception:
    - no more than 2 reprints >= 30%
    - more than 2 reprints >= 30%
-  
+
+The balanced corpus consists of 1,000 novels. 
+
 ### Metadata
 xxxxxxx
 
