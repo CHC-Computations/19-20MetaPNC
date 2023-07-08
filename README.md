@@ -33,8 +33,6 @@ Exactly one edition of each novel was selected from the 5,326 pieces of literary
    - no more than 2 reprints >= 30%
    - more than 2 reprints >= 30%
 
-The balanced corpus consists of 1,000 novels. 
-
 ### Metadata
 xxxxxxx
 
