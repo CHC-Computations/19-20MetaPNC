@@ -20,7 +20,7 @@ The [Polona](https://polona.pl) digital library, maintained by the National Libr
 
 ![](meta_belka.jpg)
 
-Exactly one edition of each novel was selected from the 5,326 pieces of literary fiction that made up the original dataset. Texts that were not novels, that were written before or after the selected period, and that were set before 1815 were rejected. Duplicates were also identified and removed, resulting in a database of 1,707 unique novels. Measures were then taken to balance the corpus. 
+Exactly one edition of each novel was selected from the 5,326 pieces of literary fiction that made up the original dataset. Texts that were not novels, that were written before or after the selected period, and that were set before 1815 were rejected. Duplicates were also identified and removed, resulting in a database of 1,707 unique novels. 
 
 ### Balancing criteria:
 1. Date: three literary eras distinguished in Polish literary studies determined by the date of first publication (>= 20% each)
