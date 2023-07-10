@@ -2,6 +2,7 @@
 ***Metadata-enriched Polish Novel Corpus from the 19th and 20th centuries***
 
 The corpus consists of 1,000 novels originally written in Polish and initially published as books between 1864 and 1939, featuring a plot timeframe set after 1815. The current version is v1.0.1.
+Zgodnie ze standardami LOD nie publikujemy tekstów korpusu w formacie .txt. Całość znajduje się w grafie wiedzy w formacie .ttl, który zawiera odnośniki do poszczególnych tekstów. Poniżej znajduje się tutorial i code explanation, jak pobrać wszystkie teksty korpusu samodzielnie. (AK)
 
 ## Contributors
 
@@ -31,15 +32,28 @@ Exactly one edition of each novel was selected from the 5,326 pieces of literary
    - no more than 2 reprints >= 30%
    - more than 2 reprints >= 30%
 
-### Metadata
-xxxxxxx
+### Metadata (PH)
+- classes
+- classes attributes
+- classes relations
+- example (CR)
+  
+#### Ontology (PH)
+- ontology description
+- ontology visualization
+![](TCO_ontology.jpg)
 
-## Licence
+#### How to use? (MK)
+- code explanation
+
+## Licence (AK)
+- graf wiedzy jest na licencji -->
+- repozytorium jest na licencji -->
+- 
 All texts in this collection are in the public domain.
-xxxxxxx
-
-## Contact
-For specific issues/concerns, please use the issue tracker here on GitHub. For more general questions, please contact xxxxxxxxxx
+Licencje tekstów pozyskanych z:
+- a --> licencja a
+- b --> licencja b
 
 ## Citation
 
