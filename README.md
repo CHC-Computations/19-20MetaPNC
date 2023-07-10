@@ -33,10 +33,24 @@ Exactly one edition of each novel was selected from the 5,326 pieces of literary
    - more than 2 reprints >= 30%
 
 ### Metadata (PH)
-- classes
-- classes attributes
-- classes relations
-- example (CR)
+#### Classes
+#### Classes attributes
+#### Classes relations
+#### Example
+```
+ns4:metapnc_b_246 a ns4:Text,
+        ns1:BibliographicResource ;
+    ns4:inEpoch ns4:metapnc_e_1572 ;
+    ns4:numberOfReissues 1 ;
+    ns4:numberOfTokens 76607 ;
+    ns1:creator ns4:metapnc_p_1100 ;
+    ns1:date "1925"^^xsd:year ;
+    ns1:subject "Plot after the Congress of Vienna" ;
+    ns1:title "Wyspa Lenina" ;
+    ns2:Place ns4:metapnc_g_1412 ;
+    ns5:genre "Novel" ;
+    owl:sameAs <http://polona.pl/item/84911046> .
+```
   
 #### Ontology (PH)
 - ontology description
