@@ -37,7 +37,7 @@ Exactly one edition of each novel was selected from the 5,326 pieces of literary
 #### Classes attributes
 #### Classes relations
 #### Example
-```
+```turtle
 ns4:metapnc_b_246 a ns4:Text,
         ns1:BibliographicResource ;
     ns4:inEpoch ns4:metapnc_e_1572 ;
