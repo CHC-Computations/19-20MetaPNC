@@ -40,6 +40,9 @@ xxxxxxx
 All texts in this collection are in the public domain.
 xxxxxxx
 
+## Contact
+For specific issues/concerns, please use the issue tracker here on GitHub. For more general questions, please contact xxxxxxxxxx
+
 ## Citation
 
 Agnieszka Karlińska, Cezary Rosiński, Jan Wieczorek, Patryk Hubar, Jan Kocoń, Marek Kubis, Stanisław Woźniak, Arkadiusz Margraf, and Wiktor Walentynowicz. 2022. [Towards a contextualised spatial-diachronic history of literature: mapping emotional representations of the city and the country in Polish fiction from 1864 to 1939](https://aclanthology.org/2022.latechclfl-1.14). In *Proceedings of the 6th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature*, pages 115–125, Gyeongju, Republic of Korea. International Conference on Computational Linguistics.
