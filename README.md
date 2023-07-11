@@ -44,17 +44,18 @@ Exactly one edition of each novel was selected from the 5,326 pieces of literary
 #### Classes relations
 #### Example
 ```turtle
-ns4:metapnc_b_246 a ns4:Text,
-        ns1:BibliographicResource ;
-    ns4:inEpoch ns4:metapnc_e_1572 ;
-    ns4:numberOfReissues 1 ;
-    ns4:numberOfTokens 76607 ;
-    ns1:creator ns4:metapnc_p_1100 ;
-    ns1:date "1925"^^xsd:year ;
-    ns1:subject "Plot after the Congress of Vienna" ;
-    ns1:title "Wyspa Lenina" ;
-    ns2:Place ns4:metapnc_g_1412 ;
-    ns5:genre "Novel" ;
+tco:metapnc_b_246 a tco:Text,
+        dcterms:BibliographicResource ;
+    tco:inEpoch tco:metapnc_e_1572 ;
+    tco:numberOfReissues 1 ;
+    tco:numberOfTokens 76607 ;
+    dcterms:creator tco:metapnc_p_1100 ;
+    dcterms:date "1925"^^xsd:year ;
+    dcterms:subject "Plot after the Congress of Vienna" ;
+    dcterms:title "Wyspa Lenina" ;
+    fabio:hasPlaceOfPublication tco:metapnc_g_1418 ;
+    schema:contentUrl <https://polona2.pl/archive?uid=84911046&cid=87260474> ;
+    schema:genre "Novel" ;
     owl:sameAs <http://polona.pl/item/84911046> .
 ```
   
