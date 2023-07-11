@@ -126,4 +126,4 @@ Agnieszka Karlińska, Cezary Rosiński, Jan Wieczorek, Patryk Hubar, Jan Kocoń,
     }
 ```
 ---
-![](institutions.png)
+![](authors_institutions.jpg)
