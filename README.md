@@ -88,7 +88,7 @@ tco:metapnc_b_246 a tco:Text,
 - ontology visualization
 ![](TCO_ontology.jpg)
 
-#### How to use? (MK)
+## Corpus manual (MK)
 - code explanation
 
 ## Licence (AK)
