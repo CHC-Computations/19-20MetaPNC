@@ -34,6 +34,12 @@ Exactly one edition of each novel was selected from the 5,326 pieces of literary
 
 ### Metadata (PH)
 #### Classes
+
+- Corpus
+- Text
+- Place
+- Partition
+- Epoch
 #### Classes attributes
 #### Classes relations
 #### Example
