@@ -1,7 +1,7 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix fabio: <http://purl.org/spar/fabio/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
-@prefix ns1: <http://xmlns.com/foaf/0.1/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <http://schema.org/> .
@@ -1009,7 +1009,7 @@ tco:Corpora a tco:Corpus ;
         tco:metapnc_b_997,
         tco:metapnc_b_998,
         tco:metapnc_b_999 ;
-    dcterms:created "2023-07-11T10:37:59.273281"^^xsd:dateTime ;
+    dcterms:created "2023-07-11T13:24:32.398338"^^xsd:dateTime ;
     dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
     schema:provider "Instytut Badań Literackich PAN" .
 
@@ -16160,1165 +16160,1165 @@ tco:metapnc_g_1568 a dcterms:Location ;
     geo:lat "50.369166666667"^^xsd:float ;
     geo:long "28.606111111111"^^xsd:float .
 
-tco:metapnc_p_1003 a ns1:Person ;
+tco:metapnc_p_1003 a foaf:Person ;
     rdfs:label "Adamówna, Małgorzata" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1004 a ns1:Person ;
+tco:metapnc_p_1004 a foaf:Person ;
     rdfs:label "Aleksander, Jerzy" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1005 a ns1:Person ;
+tco:metapnc_p_1005 a foaf:Person ;
     rdfs:label "Augustynowicz, Jan" ;
     owl:sameAs <http://www.wikidata.org/entity/Q30124576> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1006 a ns1:Person ;
+tco:metapnc_p_1006 a foaf:Person ;
     rdfs:label "Badeniowa, Maria" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1010 a ns1:Person ;
+tco:metapnc_p_1010 a foaf:Person ;
     rdfs:label "Beatus, Helena" ;
     schema:birthPlace tco:metapnc_g_1441 ;
     owl:sameAs <http://www.wikidata.org/entity/Q48305> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1011 a ns1:Person ;
+tco:metapnc_p_1011 a foaf:Person ;
     rdfs:label "Bekaski, J." ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1014 a ns1:Person ;
+tco:metapnc_p_1014 a foaf:Person ;
     rdfs:label "Bernatowicz, Feliks" ;
     schema:birthPlace tco:metapnc_g_1443 ;
     owl:sameAs <http://www.wikidata.org/entity/Q5573860> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1017 a ns1:Person ;
+tco:metapnc_p_1017 a foaf:Person ;
     rdfs:label "Błotnicki, Stanisław" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1019 a ns1:Person ;
+tco:metapnc_p_1019 a foaf:Person ;
     rdfs:label "Brandowski, L." ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1020 a ns1:Person ;
+tco:metapnc_p_1020 a foaf:Person ;
     rdfs:label "Brzozowski, Stanisław" ;
     schema:birthPlace tco:metapnc_g_1444 ;
     owl:sameAs <http://www.wikidata.org/entity/Q76865> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1022 a ns1:Person ;
+tco:metapnc_p_1022 a foaf:Person ;
     rdfs:label "Chłędowski, Kazimierz" ;
     schema:birthPlace tco:metapnc_g_1446 ;
     owl:sameAs <http://www.wikidata.org/entity/Q5607992> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1023 a ns1:Person ;
+tco:metapnc_p_1023 a foaf:Person ;
     rdfs:label "Chorm, Stefan" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1025 a ns1:Person ;
+tco:metapnc_p_1025 a foaf:Person ;
     rdfs:label "Czarnowska-Loevy, Maria" ;
     schema:birthPlace tco:metapnc_g_1447 ;
     owl:sameAs <http://www.wikidata.org/entity/Q16030554> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1026 a ns1:Person ;
+tco:metapnc_p_1026 a foaf:Person ;
     rdfs:label "Czerniewska, Jadwiga" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1028 a ns1:Person ;
+tco:metapnc_p_1028 a foaf:Person ;
     rdfs:label "Czeska-Mączyńska, Maria" ;
     schema:birthPlace tco:metapnc_g_1448 ;
     owl:sameAs <http://www.wikidata.org/entity/Q57264531> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1029 a ns1:Person ;
+tco:metapnc_p_1029 a foaf:Person ;
     rdfs:label "Dalecka, Wanda" ;
     schema:birthPlace tco:metapnc_g_1408 ;
     owl:sameAs <http://www.wikidata.org/entity/Q21933136> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1030 a ns1:Person ;
+tco:metapnc_p_1030 a foaf:Person ;
     rdfs:label "Danielewski, Ignacy" ;
     schema:birthPlace tco:metapnc_g_1449 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11711145> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1031 a ns1:Person ;
+tco:metapnc_p_1031 a foaf:Person ;
     rdfs:label "Daniłowicz-Strzelbicki, Kazimierz." ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1032 a ns1:Person ;
+tco:metapnc_p_1032 a foaf:Person ;
     rdfs:label "Daniłowski, Gustaw" ;
     schema:birthPlace tco:metapnc_g_1450 ;
     owl:sameAs <http://www.wikidata.org/entity/Q5849782> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1033 a ns1:Person ;
+tco:metapnc_p_1033 a foaf:Person ;
     rdfs:label "Dąbrowski, Ignacy" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1034 a ns1:Person ;
+tco:metapnc_p_1034 a foaf:Person ;
     rdfs:label "Derski, Leon" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1036 a ns1:Person ;
+tco:metapnc_p_1036 a foaf:Person ;
     rdfs:label "Dmowski, Roman" ;
     schema:birthPlace tco:metapnc_g_1452 ;
     owl:sameAs <http://www.wikidata.org/entity/Q161590> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1038 a ns1:Person ;
+tco:metapnc_p_1038 a foaf:Person ;
     rdfs:label "Drzewiecki, Henryk" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1039 a ns1:Person ;
+tco:metapnc_p_1039 a foaf:Person ;
     rdfs:label "Drzewiecki, Mieczysław" ;
     owl:sameAs <http://www.wikidata.org/entity/Q57334765> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1043 a ns1:Person ;
+tco:metapnc_p_1043 a foaf:Person ;
     rdfs:label "Fabry, Władysław" ;
     owl:sameAs <http://www.wikidata.org/entity/Q29016582> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1044 a ns1:Person ;
+tco:metapnc_p_1044 a foaf:Person ;
     rdfs:label "Feldhorn, Juliusz" ;
     schema:birthPlace tco:metapnc_g_1413 ;
     owl:sameAs <http://www.wikidata.org/entity/Q58916584> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1046 a ns1:Person ;
+tco:metapnc_p_1046 a foaf:Person ;
     rdfs:label "Fenikowski, Władysław" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1047 a ns1:Person ;
+tco:metapnc_p_1047 a foaf:Person ;
     rdfs:label "Frank, Janina" ;
     owl:sameAs <http://www.wikidata.org/entity/Q5560991> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1048 a ns1:Person ;
+tco:metapnc_p_1048 a foaf:Person ;
     rdfs:label "Gajewska, Irena" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1049 a ns1:Person ;
+tco:metapnc_p_1049 a foaf:Person ;
     rdfs:label "Gajewski, Kazimierz" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1050 a ns1:Person ;
+tco:metapnc_p_1050 a foaf:Person ;
     rdfs:label "Galen, Filip" ;
     schema:birthPlace tco:metapnc_g_1457 ;
     owl:sameAs <http://www.wikidata.org/entity/Q214093> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1051 a ns1:Person ;
+tco:metapnc_p_1051 a foaf:Person ;
     rdfs:label "Gapa, Maksymilian Ernest" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1052 a ns1:Person ;
+tco:metapnc_p_1052 a foaf:Person ;
     rdfs:label "Garfeinowa-Garska, Malwina" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q6745160> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1056 a ns1:Person ;
+tco:metapnc_p_1056 a foaf:Person ;
     rdfs:label "Gąsiorowski, Albert" ;
     owl:sameAs <http://www.wikidata.org/entity/Q99767411> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1059 a ns1:Person ;
+tco:metapnc_p_1059 a foaf:Person ;
     rdfs:label "Gładkowska, Celina" ;
     owl:sameAs <http://www.wikidata.org/entity/Q24263405> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1060 a ns1:Person ;
+tco:metapnc_p_1060 a foaf:Person ;
     rdfs:label "Gnoiński, Bolesław Zygmunt" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1062 a ns1:Person ;
+tco:metapnc_p_1062 a foaf:Person ;
     rdfs:label "Gordon, Jakub" ;
     schema:birthPlace tco:metapnc_g_1460 ;
     owl:sameAs <http://www.wikidata.org/entity/Q983254> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1063 a ns1:Person ;
+tco:metapnc_p_1063 a foaf:Person ;
     rdfs:label "Górska, Halina" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q5642363> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1066 a ns1:Person ;
+tco:metapnc_p_1066 a foaf:Person ;
     rdfs:label "Gregorowicz, Jan Kanty" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11717895> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1070 a ns1:Person ;
+tco:metapnc_p_1070 a foaf:Person ;
     rdfs:label "Grudziński, Roman" ;
     owl:sameAs <http://www.wikidata.org/entity/Q20029000> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1073 a ns1:Person ;
+tco:metapnc_p_1073 a foaf:Person ;
     rdfs:label "Hałan, Jarosław" ;
     schema:birthPlace tco:metapnc_g_1465 ;
     owl:sameAs <http://www.wikidata.org/entity/Q4132223> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1074 a ns1:Person ;
+tco:metapnc_p_1074 a foaf:Person ;
     rdfs:label "Helstein-Heliński, Stanisław" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1075 a ns1:Person ;
+tco:metapnc_p_1075 a foaf:Person ;
     rdfs:label "Helwin, Jan" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1076 a ns1:Person ;
+tco:metapnc_p_1076 a foaf:Person ;
     rdfs:label "Henning-Michaelis, Eugeniusz de" ;
     schema:birthPlace tco:metapnc_g_1466 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9256104> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1077 a ns1:Person ;
+tco:metapnc_p_1077 a foaf:Person ;
     rdfs:label "Hoff, Emanuel" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1078 a ns1:Person ;
+tco:metapnc_p_1078 a foaf:Person ;
     rdfs:label "Huskowski, Jan" ;
     schema:birthPlace tco:Q11816338 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11717718> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1079 a ns1:Person ;
+tco:metapnc_p_1079 a foaf:Person ;
     rdfs:label "Irzykowski, Karol" ;
     schema:birthPlace tco:metapnc_g_1467 ;
     owl:sameAs <http://www.wikidata.org/entity/Q277620> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1080 a ns1:Person ;
+tco:metapnc_p_1080 a foaf:Person ;
     rdfs:label "Iwanowska, Maria" ;
     schema:birthPlace tco:metapnc_g_1468 ;
     owl:sameAs <http://www.wikidata.org/entity/Q17362209> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1082 a ns1:Person ;
+tco:metapnc_p_1082 a foaf:Person ;
     rdfs:label "Jaczewski, Cezary" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1083 a ns1:Person ;
+tco:metapnc_p_1083 a foaf:Person ;
     rdfs:label "Jagielski, Władysław" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1084 a ns1:Person ;
+tco:metapnc_p_1084 a foaf:Person ;
     rdfs:label "Jankowski, Czesław" ;
     schema:birthPlace tco:metapnc_g_1469 ;
     owl:sameAs <http://www.wikidata.org/entity/Q2093961> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1087 a ns1:Person ;
+tco:metapnc_p_1087 a foaf:Person ;
     rdfs:label "Janta-Połczyński, Władysław" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1088 a ns1:Person ;
+tco:metapnc_p_1088 a foaf:Person ;
     rdfs:label "Jarecka, Gustawa" ;
     schema:birthPlace tco:metapnc_g_1470 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9282896> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1089 a ns1:Person ;
+tco:metapnc_p_1089 a foaf:Person ;
     rdfs:label "Jarmund, Maria" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1090 a ns1:Person ;
+tco:metapnc_p_1090 a foaf:Person ;
     rdfs:label "Jarosz, Zygmunt" ;
     owl:sameAs <http://www.wikidata.org/entity/Q7944975> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1093 a ns1:Person ;
+tco:metapnc_p_1093 a foaf:Person ;
     rdfs:label "Jasieński, Henryk" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1094 a ns1:Person ;
+tco:metapnc_p_1094 a foaf:Person ;
     rdfs:label "Jaworska, Julia" ;
     schema:birthPlace tco:metapnc_g_1473 ;
     owl:sameAs <http://www.wikidata.org/entity/Q6762841> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1095 a ns1:Person ;
+tco:metapnc_p_1095 a foaf:Person ;
     rdfs:label "Jaworski, Roman" ;
     schema:birthPlace tco:metapnc_g_1474 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11835232> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1097 a ns1:Person ;
+tco:metapnc_p_1097 a foaf:Person ;
     rdfs:label "Jelska, Wiktoria" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1102 a ns1:Person ;
+tco:metapnc_p_1102 a foaf:Person ;
     rdfs:label "Józef z nad Obry" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1103 a ns1:Person ;
+tco:metapnc_p_1103 a foaf:Person ;
     rdfs:label "Kaczkowski, Zygmunt" ;
     schema:birthPlace tco:metapnc_g_1477 ;
     owl:sameAs <http://www.wikidata.org/entity/Q3599561> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1107 a ns1:Person ;
+tco:metapnc_p_1107 a foaf:Person ;
     rdfs:label "Kamiński, Zbigniew" ;
     owl:sameAs <http://www.wikidata.org/entity/Q58798232> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1108 a ns1:Person ;
+tco:metapnc_p_1108 a foaf:Person ;
     rdfs:label "Kaniakowa, Stefania" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1110 a ns1:Person ;
+tco:metapnc_p_1110 a foaf:Person ;
     rdfs:label "Karczewski, Wacław" ;
     schema:birthPlace tco:metapnc_g_1479 ;
     owl:sameAs <http://www.wikidata.org/entity/Q4216371> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1111 a ns1:Person ;
+tco:metapnc_p_1111 a foaf:Person ;
     rdfs:label "Kari, Maria" ;
     schema:birthPlace tco:metapnc_g_1480 ;
     owl:sameAs <http://www.wikidata.org/entity/Q276186> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1112 a ns1:Person ;
+tco:metapnc_p_1112 a foaf:Person ;
     rdfs:label "Karwowski, Adam" ;
     owl:sameAs <http://www.wikidata.org/entity/Q55909425> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1113 a ns1:Person ;
+tco:metapnc_p_1113 a foaf:Person ;
     rdfs:label "Kazimierski, L. J." ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1114 a ns1:Person ;
+tco:metapnc_p_1114 a foaf:Person ;
     rdfs:label "Keller, Henryk" ;
     schema:birthPlace tco:metapnc_g_1481 ;
     owl:sameAs <http://www.wikidata.org/entity/Q123839> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1115 a ns1:Person ;
+tco:metapnc_p_1115 a foaf:Person ;
     rdfs:label "Kelmen, Victor" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1117 a ns1:Person ;
+tco:metapnc_p_1117 a foaf:Person ;
     rdfs:label "Kleszczyński, Zdzisław" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q21288148> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1118 a ns1:Person ;
+tco:metapnc_p_1118 a foaf:Person ;
     rdfs:label "Klimańska, Zofia" ;
     owl:sameAs <http://www.wikidata.org/entity/Q104036927> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1119 a ns1:Person ;
+tco:metapnc_p_1119 a foaf:Person ;
     rdfs:label "Kojder, Józef" ;
     schema:birthPlace tco:metapnc_g_1482 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11730557> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1123 a ns1:Person ;
+tco:metapnc_p_1123 a foaf:Person ;
     rdfs:label "Konopacki, Leszek" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1124 a ns1:Person ;
+tco:metapnc_p_1124 a foaf:Person ;
     rdfs:label "Konopnicka, Maria" ;
     schema:birthPlace tco:metapnc_g_1483 ;
     owl:sameAs <http://www.wikidata.org/entity/Q257852> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1126 a ns1:Person ;
+tco:metapnc_p_1126 a foaf:Person ;
     rdfs:label "Kończyc, Tadeusz" ;
     schema:birthPlace tco:metapnc_g_1484 ;
     owl:sameAs <http://www.wikidata.org/entity/Q104388697> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1129 a ns1:Person ;
+tco:metapnc_p_1129 a foaf:Person ;
     rdfs:label "Korycki, Władysław" ;
     owl:sameAs <http://www.wikidata.org/entity/Q104740203> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1131 a ns1:Person ;
+tco:metapnc_p_1131 a foaf:Person ;
     rdfs:label "Korzeniowska, Jadwiga" ;
     owl:sameAs <http://www.wikidata.org/entity/Q81317455> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1132 a ns1:Person ;
+tco:metapnc_p_1132 a foaf:Person ;
     rdfs:label "Kostecki, Marian" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1133 a ns1:Person ;
+tco:metapnc_p_1133 a foaf:Person ;
     rdfs:label "Kostrzewa, Zenon" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1134 a ns1:Person ;
+tco:metapnc_p_1134 a foaf:Person ;
     rdfs:label "Koszutski, Witold" ;
     owl:sameAs <http://www.wikidata.org/entity/Q105633628> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1136 a ns1:Person ;
+tco:metapnc_p_1136 a foaf:Person ;
     rdfs:label "Kozicki, Władysław" ;
     owl:sameAs <http://www.wikidata.org/entity/Q4226629> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1138 a ns1:Person ;
+tco:metapnc_p_1138 a foaf:Person ;
     rdfs:label "Krajewski, Adam" ;
     schema:birthPlace tco:metapnc_g_1412 ;
     owl:sameAs <http://www.wikidata.org/entity/Q4679368> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1139 a ns1:Person ;
+tco:metapnc_p_1139 a foaf:Person ;
     rdfs:label "Krakowowa, Paulina" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q4237515> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1140 a ns1:Person ;
+tco:metapnc_p_1140 a foaf:Person ;
     rdfs:label "Krasicki, Stanisław" ;
     owl:sameAs <http://www.wikidata.org/entity/Q9342353> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1141 a ns1:Person ;
+tco:metapnc_p_1141 a foaf:Person ;
     rdfs:label "Krasińska, Marta" ;
     owl:sameAs <http://www.wikidata.org/entity/Q11770585> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1142 a ns1:Person ;
+tco:metapnc_p_1142 a foaf:Person ;
     rdfs:label "Kraszewska, Aniela" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1144 a ns1:Person ;
+tco:metapnc_p_1144 a foaf:Person ;
     rdfs:label "Kraszewski, Kajetan" ;
     schema:birthPlace tco:metapnc_g_1486 ;
     owl:sameAs <http://www.wikidata.org/entity/Q2619273> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1146 a ns1:Person ;
+tco:metapnc_p_1146 a foaf:Person ;
     rdfs:label "Kretowicz, Bronisław" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1153 a ns1:Person ;
+tco:metapnc_p_1153 a foaf:Person ;
     rdfs:label "Krzywy, Antoni" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1155 a ns1:Person ;
+tco:metapnc_p_1155 a foaf:Person ;
     rdfs:label "Kucharska-Ćwiklina, Rut" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1156 a ns1:Person ;
+tco:metapnc_p_1156 a foaf:Person ;
     rdfs:label "Kucharski, Ludomir Jerzy" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1157 a ns1:Person ;
+tco:metapnc_p_1157 a foaf:Person ;
     rdfs:label "Kudasiewicz, Antoni" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1158 a ns1:Person ;
+tco:metapnc_p_1158 a foaf:Person ;
     rdfs:label "Kudelska, Justyna Klara" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1160 a ns1:Person ;
+tco:metapnc_p_1160 a foaf:Person ;
     rdfs:label "Kunicka, Zofia" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1162 a ns1:Person ;
+tco:metapnc_p_1162 a foaf:Person ;
     rdfs:label "Kurylski, Robert" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1164 a ns1:Person ;
+tco:metapnc_p_1164 a foaf:Person ;
     rdfs:label "Kuszel, Jan" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1168 a ns1:Person ;
+tco:metapnc_p_1168 a foaf:Person ;
     rdfs:label "Laskowski, Kazimierz" ;
     schema:birthPlace tco:metapnc_g_1490 ;
     owl:sameAs <http://www.wikidata.org/entity/Q48843316> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1171 a ns1:Person ;
+tco:metapnc_p_1171 a foaf:Person ;
     rdfs:label "Leliwa, Witalis" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1172 a ns1:Person ;
+tco:metapnc_p_1172 a foaf:Person ;
     rdfs:label "Lepecka, Zofia" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1173 a ns1:Person ;
+tco:metapnc_p_1173 a foaf:Person ;
     rdfs:label "Lepszy, Leonard" ;
     schema:birthPlace tco:metapnc_g_1491 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11754485> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1174 a ns1:Person ;
+tco:metapnc_p_1174 a foaf:Person ;
     rdfs:label "Leszczyc, Maria" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1175 a ns1:Person ;
+tco:metapnc_p_1175 a foaf:Person ;
     rdfs:label "Leśniewska, Aleksandra" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1177 a ns1:Person ;
+tco:metapnc_p_1177 a foaf:Person ;
     rdfs:label "Leśniowska, Ludwika" ;
     owl:sameAs <http://www.wikidata.org/entity/Q88470958> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1179 a ns1:Person ;
+tco:metapnc_p_1179 a foaf:Person ;
     rdfs:label "Libawski, Ludwik" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1181 a ns1:Person ;
+tco:metapnc_p_1181 a foaf:Person ;
     rdfs:label "Lisicki, Henryk" ;
     owl:sameAs <http://www.wikidata.org/entity/Q9288430> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1182 a ns1:Person ;
+tco:metapnc_p_1182 a foaf:Person ;
     rdfs:label "Lot, Bogdan" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1184 a ns1:Person ;
+tco:metapnc_p_1184 a foaf:Person ;
     rdfs:label "Lubowski, Edward" ;
     schema:birthPlace tco:metapnc_g_1413 ;
     owl:sameAs <http://www.wikidata.org/entity/Q5106489> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1185 a ns1:Person ;
+tco:metapnc_p_1185 a foaf:Person ;
     rdfs:label "Ładoń, Feliks" ;
     owl:sameAs <http://www.wikidata.org/entity/Q104518769> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1190 a ns1:Person ;
+tco:metapnc_p_1190 a foaf:Person ;
     rdfs:label "Łubieńska, Janina Anna" ;
     owl:sameAs <http://www.wikidata.org/entity/Q11686297> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1191 a ns1:Person ;
+tco:metapnc_p_1191 a foaf:Person ;
     rdfs:label "Łubieński, Henryk Józef" ;
     owl:sameAs <http://www.wikidata.org/entity/Q9288271> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1194 a ns1:Person ;
+tco:metapnc_p_1194 a foaf:Person ;
     rdfs:label "Łysakowska, Helena" ;
     owl:sameAs <http://www.wikidata.org/entity/Q111430750> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1197 a ns1:Person ;
+tco:metapnc_p_1197 a foaf:Person ;
     rdfs:label "Majewski, J. M." ;
     schema:birthPlace tco:metapnc_g_1494 ;
     owl:sameAs <http://www.wikidata.org/entity/Q3646655> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1198 a ns1:Person ;
+tco:metapnc_p_1198 a foaf:Person ;
     rdfs:label "Makuszyński, Kornel" ;
     schema:birthPlace tco:metapnc_g_1495 ;
     owl:sameAs <http://www.wikidata.org/entity/Q1028469> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1199 a ns1:Person ;
+tco:metapnc_p_1199 a foaf:Person ;
     rdfs:label "Malicka, Irena" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1200 a ns1:Person ;
+tco:metapnc_p_1200 a foaf:Person ;
     rdfs:label "Mańkowski, Aleksander" ;
     schema:birthPlace tco:metapnc_g_1496 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11685071> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1204 a ns1:Person ;
+tco:metapnc_p_1204 a foaf:Person ;
     rdfs:label "Markowska, Anna" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1206 a ns1:Person ;
+tco:metapnc_p_1206 a foaf:Person ;
     rdfs:label "Miarka, Karol" ;
     schema:birthPlace tco:metapnc_g_1499 ;
     owl:sameAs <http://www.wikidata.org/entity/Q4310299> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1207 a ns1:Person ;
+tco:metapnc_p_1207 a foaf:Person ;
     rdfs:label "Michałkiewicz, Mieczysław" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1209 a ns1:Person ;
+tco:metapnc_p_1209 a foaf:Person ;
     rdfs:label "Miecznik, Antoni" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1211 a ns1:Person ;
+tco:metapnc_p_1211 a foaf:Person ;
     rdfs:label "Milewska, Aniela" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1212 a ns1:Person ;
+tco:metapnc_p_1212 a foaf:Person ;
     rdfs:label "Milkuszyc, Maria" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1213 a ns1:Person ;
+tco:metapnc_p_1213 a foaf:Person ;
     rdfs:label "Miller, Antoni" ;
     schema:birthPlace tco:metapnc_g_1411 ;
     owl:sameAs <http://www.wikidata.org/entity/Q982677> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1216 a ns1:Person ;
+tco:metapnc_p_1216 a foaf:Person ;
     rdfs:label "Mironowicz, Mikołaj" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11718423> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1218 a ns1:Person ;
+tco:metapnc_p_1218 a foaf:Person ;
     rdfs:label "Mocny, Aleksander" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1219 a ns1:Person ;
+tco:metapnc_p_1219 a foaf:Person ;
     rdfs:label "Morawska, Zuzanna" ;
     schema:birthPlace tco:metapnc_g_1501 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9392166> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1220 a ns1:Person ;
+tco:metapnc_p_1220 a foaf:Person ;
     rdfs:label "Morzkowska, Antonina" ;
     owl:sameAs <http://www.wikidata.org/entity/Q59427867> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1221 a ns1:Person ;
+tco:metapnc_p_1221 a foaf:Person ;
     rdfs:label "Morzycka, Faustyna" ;
     schema:birthPlace tco:metapnc_g_1502 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9258209> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1222 a ns1:Person ;
+tco:metapnc_p_1222 a foaf:Person ;
     rdfs:label "Moszczeńska, Izabela" ;
     schema:birthPlace tco:metapnc_g_1503 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11714683> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1223 a ns1:Person ;
+tco:metapnc_p_1223 a foaf:Person ;
     rdfs:label "Moszczeński, Stefan" ;
     schema:birthPlace tco:metapnc_g_1504 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9345218> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1225 a ns1:Person ;
+tco:metapnc_p_1225 a foaf:Person ;
     rdfs:label "Mutermilch, Michał" ;
     owl:sameAs <http://www.wikidata.org/entity/Q89194017> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1226 a ns1:Person ;
+tco:metapnc_p_1226 a foaf:Person ;
     rdfs:label "Muzyk, Adam" ;
     owl:sameAs <http://www.wikidata.org/entity/Q9140045> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1227 a ns1:Person ;
+tco:metapnc_p_1227 a foaf:Person ;
     rdfs:label "Mycielski, Maurycy" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1228 a ns1:Person ;
+tco:metapnc_p_1228 a foaf:Person ;
     rdfs:label "Nadel, Norbert" ;
     schema:birthPlace tco:metapnc_g_1506 ;
     owl:sameAs <http://www.wikidata.org/entity/Q1195861> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1231 a ns1:Person ;
+tco:metapnc_p_1231 a foaf:Person ;
     rdfs:label "Nidecka, Władysława" ;
     owl:sameAs <http://www.wikidata.org/entity/Q70226054> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1233 a ns1:Person ;
+tco:metapnc_p_1233 a foaf:Person ;
     rdfs:label "Niedźwiedcka, Zofia" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1234 a ns1:Person ;
+tco:metapnc_p_1234 a foaf:Person ;
     rdfs:label "Niemierowski, Andrzej Kazimierz" ;
     owl:sameAs <http://www.wikidata.org/entity/Q105634187> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1237 a ns1:Person ;
+tco:metapnc_p_1237 a foaf:Person ;
     rdfs:label "Niezabitowski, Wacław" ;
     owl:sameAs <http://www.wikidata.org/entity/Q98813967> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1238 a ns1:Person ;
+tco:metapnc_p_1238 a foaf:Person ;
     rdfs:label "Nittman, Tadeusz Michał" ;
     schema:birthPlace tco:metapnc_g_1412 ;
     owl:sameAs <http://www.wikidata.org/entity/Q97183250> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1239 a ns1:Person ;
+tco:metapnc_p_1239 a foaf:Person ;
     rdfs:label "Nowakowski, Julian" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1240 a ns1:Person ;
+tco:metapnc_p_1240 a foaf:Person ;
     rdfs:label "Nowiński, Józefat" ;
     owl:sameAs <http://www.wikidata.org/entity/Q60562350> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1241 a ns1:Person ;
+tco:metapnc_p_1241 a foaf:Person ;
     rdfs:label "Noyszewski-Piołun, Stanisław" ;
     schema:birthPlace tco:metapnc_g_1509 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9342826> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1242 a ns1:Person ;
+tco:metapnc_p_1242 a foaf:Person ;
     rdfs:label "Olech, Zdzisław" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1243 a ns1:Person ;
+tco:metapnc_p_1243 a foaf:Person ;
     rdfs:label "Olędzki, Władysław Maksymilian" ;
     owl:sameAs <http://www.wikidata.org/entity/Q101084414> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1248 a ns1:Person ;
+tco:metapnc_p_1248 a foaf:Person ;
     rdfs:label "Ostrowski-Nałęcz, Stanisław" ;
     owl:sameAs <http://www.wikidata.org/entity/Q9342739> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1249 a ns1:Person ;
+tco:metapnc_p_1249 a foaf:Person ;
     rdfs:label "Osuchowska, Wiktoria" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1250 a ns1:Person ;
+tco:metapnc_p_1250 a foaf:Person ;
     rdfs:label "Paciorek, Józef" ;
     owl:sameAs <http://www.wikidata.org/entity/Q95150476> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1251 a ns1:Person ;
+tco:metapnc_p_1251 a foaf:Person ;
     rdfs:label "Pajzderska, Helena Janina" ;
     schema:birthPlace tco:metapnc_g_1513 ;
     owl:sameAs <http://www.wikidata.org/entity/Q18508275> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1253 a ns1:Person ;
+tco:metapnc_p_1253 a foaf:Person ;
     rdfs:label "Paprocka, Maria" ;
     schema:birthPlace tco:metapnc_g_1515 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11696858> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1259 a ns1:Person ;
+tco:metapnc_p_1259 a foaf:Person ;
     rdfs:label "Piątkowska, Konstantyna Ignacja" ;
     schema:birthPlace tco:metapnc_g_1517 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11711099> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1260 a ns1:Person ;
+tco:metapnc_p_1260 a foaf:Person ;
     rdfs:label "Pietkiewicz, Antoni" ;
     schema:birthPlace tco:metapnc_g_1518 ;
     owl:sameAs <http://www.wikidata.org/entity/Q2791424> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1261 a ns1:Person ;
+tco:metapnc_p_1261 a foaf:Person ;
     rdfs:label "Plater, Stanisław" ;
     schema:birthPlace tco:metapnc_g_1519 ;
     owl:sameAs <http://www.wikidata.org/entity/Q2331426> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1262 a ns1:Person ;
+tco:metapnc_p_1262 a foaf:Person ;
     rdfs:label "Płatkowski, Jan Szczęsny" ;
     owl:sameAs <http://www.wikidata.org/entity/Q16561764> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1264 a ns1:Person ;
+tco:metapnc_p_1264 a foaf:Person ;
     rdfs:label "Popiel, Włodzimierz" ;
     owl:sameAs <http://www.wikidata.org/entity/Q104519623> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1267 a ns1:Person ;
+tco:metapnc_p_1267 a foaf:Person ;
     rdfs:label "Poraska, Maria" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1272 a ns1:Person ;
+tco:metapnc_p_1272 a foaf:Person ;
     rdfs:label "Przecławski, Wiktor" ;
     owl:sameAs <http://www.wikidata.org/entity/Q98133970> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1274 a ns1:Person ;
+tco:metapnc_p_1274 a foaf:Person ;
     rdfs:label "Przybysławski, Henryk" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1277 a ns1:Person ;
+tco:metapnc_p_1277 a foaf:Person ;
     rdfs:label "Rabski, Janusz" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q8864492> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1278 a ns1:Person ;
+tco:metapnc_p_1278 a foaf:Person ;
     rdfs:label "Radziewanowska, Naja" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1279 a ns1:Person ;
+tco:metapnc_p_1279 a foaf:Person ;
     rdfs:label "Rapacki, Jerzy Jacek" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1280 a ns1:Person ;
+tco:metapnc_p_1280 a foaf:Person ;
     rdfs:label "Rapacki, Wincenty" ;
     schema:birthPlace tco:metapnc_g_1526 ;
     owl:sameAs <http://www.wikidata.org/entity/Q8864524> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1281 a ns1:Person ;
+tco:metapnc_p_1281 a foaf:Person ;
     rdfs:label "Rappaport, Józef" ;
     schema:birthPlace tco:metapnc_g_1527 ;
     owl:sameAs <http://www.wikidata.org/entity/Q40304294> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1282 a ns1:Person ;
+tco:metapnc_p_1282 a foaf:Person ;
     rdfs:label "Rayski, Jan Nepomucen" ;
     owl:sameAs <http://www.wikidata.org/entity/Q96282569> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1283 a ns1:Person ;
+tco:metapnc_p_1283 a foaf:Person ;
     rdfs:label "Reutt-Witkowska, Zofia" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q16620420> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1288 a ns1:Person ;
+tco:metapnc_p_1288 a foaf:Person ;
     rdfs:label "Rogosz, Józef" ;
     schema:birthPlace tco:metapnc_g_1530 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11731264> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1290 a ns1:Person ;
+tco:metapnc_p_1290 a foaf:Person ;
     rdfs:label "Roguski, Stefan Marian" ;
     owl:sameAs <http://www.wikidata.org/entity/Q96012697> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1293 a ns1:Person ;
+tco:metapnc_p_1293 a foaf:Person ;
     rdfs:label "Rościszewski, Lucjan" ;
     owl:sameAs <http://www.wikidata.org/entity/Q96305385> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1294 a ns1:Person ;
+tco:metapnc_p_1294 a foaf:Person ;
     rdfs:label "Rouba, Napoleon" ;
     schema:birthPlace tco:metapnc_g_1531 ;
     owl:sameAs <http://www.wikidata.org/entity/Q16581463> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1295 a ns1:Person ;
+tco:metapnc_p_1295 a foaf:Person ;
     rdfs:label "Rumowska, Helena" ;
     owl:sameAs <http://www.wikidata.org/entity/Q98108126> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1296 a ns1:Person ;
+tco:metapnc_p_1296 a foaf:Person ;
     rdfs:label "Rybka, Stanisław" ;
     schema:birthPlace tco:metapnc_g_1532 ;
     owl:sameAs <http://www.wikidata.org/entity/Q765533> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1297 a ns1:Person ;
+tco:metapnc_p_1297 a foaf:Person ;
     rdfs:label "Rydel, Lucjan" ;
     schema:birthPlace tco:metapnc_g_1413 ;
     owl:sameAs <http://www.wikidata.org/entity/Q582704> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1298 a ns1:Person ;
+tco:metapnc_p_1298 a foaf:Person ;
     rdfs:label "Rygier, Leon" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11754386> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1300 a ns1:Person ;
+tco:metapnc_p_1300 a foaf:Person ;
     rdfs:label "Rzeźnik, Paweł" ;
     schema:birthPlace tco:metapnc_g_1396 ;
     owl:sameAs <http://www.wikidata.org/entity/Q1243997> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1301 a ns1:Person ;
+tco:metapnc_p_1301 a foaf:Person ;
     rdfs:label "Rzętkowski, Stanisław Marek" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q17376084> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1305 a ns1:Person ;
+tco:metapnc_p_1305 a foaf:Person ;
     rdfs:label "Salz, Henryk" ;
     schema:birthPlace tco:metapnc_g_1489 ;
     owl:sameAs <http://www.wikidata.org/entity/Q38898499> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1306 a ns1:Person ;
+tco:metapnc_p_1306 a foaf:Person ;
     rdfs:label "Sarnecki, Zygmunt" ;
     schema:birthPlace tco:metapnc_g_1534 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9393103> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1307 a ns1:Person ;
+tco:metapnc_p_1307 a foaf:Person ;
     rdfs:label "Sas-Tymowski, H." ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1308 a ns1:Person ;
+tco:metapnc_p_1308 a foaf:Person ;
     rdfs:label "Sawicki, W." ;
     schema:birthPlace tco:metapnc_g_1426 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11763564> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1309 a ns1:Person ;
+tco:metapnc_p_1309 a foaf:Person ;
     rdfs:label "Sebastiani, Mieczysław" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1310 a ns1:Person ;
+tco:metapnc_p_1310 a foaf:Person ;
     rdfs:label "Sempołowska, Stefania" ;
     schema:birthPlace tco:metapnc_g_1535 ;
     owl:sameAs <http://www.wikidata.org/entity/Q7606372> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1313 a ns1:Person ;
+tco:metapnc_p_1313 a foaf:Person ;
     rdfs:label "Sienkiewicz, A." ;
     schema:birthPlace tco:metapnc_g_1536 ;
     owl:sameAs <http://www.wikidata.org/entity/Q41502> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1316 a ns1:Person ;
+tco:metapnc_p_1316 a foaf:Person ;
     rdfs:label "Sierzputowski, Tadeusz" ;
     owl:sameAs <http://www.wikidata.org/entity/Q104984549> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1317 a ns1:Person ;
+tco:metapnc_p_1317 a foaf:Person ;
     rdfs:label "Sikorski, Tadeusz" ;
     schema:birthPlace tco:metapnc_g_1538 ;
     owl:sameAs <http://www.wikidata.org/entity/Q22694930> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1318 a ns1:Person ;
+tco:metapnc_p_1318 a foaf:Person ;
     rdfs:label "Skórzewska, Maria Gertruda" ;
     owl:sameAs <http://www.wikidata.org/entity/Q99415070> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1320 a ns1:Person ;
+tco:metapnc_p_1320 a foaf:Person ;
     rdfs:label "Słupski, Zygmunt Światopełk" ;
     schema:birthPlace tco:metapnc_g_1540 ;
     owl:sameAs <http://www.wikidata.org/entity/Q29982152> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1321 a ns1:Person ;
+tco:metapnc_p_1321 a foaf:Person ;
     rdfs:label "Smaczniński, Aleksander" ;
     owl:sameAs <http://www.wikidata.org/entity/Q110923775> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1322 a ns1:Person ;
+tco:metapnc_p_1322 a foaf:Person ;
     rdfs:label "Sobieski, Stanisław" ;
     schema:birthPlace tco:metapnc_g_1541 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9343068> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1323 a ns1:Person ;
+tco:metapnc_p_1323 a foaf:Person ;
     rdfs:label "Sokolicz, Antonina" ;
     schema:birthPlace tco:metapnc_g_1542 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11686496> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1325 a ns1:Person ;
+tco:metapnc_p_1325 a foaf:Person ;
     rdfs:label "Sowiński, Leonard" ;
     schema:birthPlace tco:metapnc_g_1543 ;
     owl:sameAs <http://www.wikidata.org/entity/Q1819036> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1328 a ns1:Person ;
+tco:metapnc_p_1328 a foaf:Person ;
     rdfs:label "Staff, Ludwik Maria" ;
     schema:birthPlace tco:metapnc_g_1412 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11763841> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1329 a ns1:Person ;
+tco:metapnc_p_1329 a foaf:Person ;
     rdfs:label "Starkman, Adolf" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11684472> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1332 a ns1:Person ;
+tco:metapnc_p_1332 a foaf:Person ;
     rdfs:label "Stein, S." ;
     owl:sameAs <http://www.wikidata.org/entity/Q57494472> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1333 a ns1:Person ;
+tco:metapnc_p_1333 a foaf:Person ;
     rdfs:label "Stendigowa, Felicja" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1334 a ns1:Person ;
+tco:metapnc_p_1334 a foaf:Person ;
     rdfs:label "Sternklar, Leon" ;
     schema:birthPlace tco:metapnc_g_1476 ;
     owl:sameAs <http://www.wikidata.org/entity/Q58876695> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1335 a ns1:Person ;
+tco:metapnc_p_1335 a foaf:Person ;
     rdfs:label "Stępkowska, Melania" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1338 a ns1:Person ;
+tco:metapnc_p_1338 a foaf:Person ;
     rdfs:label "Strzelecki, Adolf" ;
     owl:sameAs <http://www.wikidata.org/entity/Q18036060> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1340 a ns1:Person ;
+tco:metapnc_p_1340 a foaf:Person ;
     rdfs:label "Syrakowski, W." ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1341 a ns1:Person ;
+tco:metapnc_p_1341 a foaf:Person ;
     rdfs:label "Szaniawska, Karolina" ;
     schema:birthPlace tco:metapnc_g_1549 ;
     owl:sameAs <http://www.wikidata.org/entity/Q77318> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1343 a ns1:Person ;
+tco:metapnc_p_1343 a foaf:Person ;
     rdfs:label "Szebeko, Józefina" ;
     schema:birthPlace tco:metapnc_g_1550 ;
     owl:sameAs <http://www.wikidata.org/entity/Q59181915> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1344 a ns1:Person ;
+tco:metapnc_p_1344 a foaf:Person ;
     rdfs:label "Szembekowa, Maria" ;
     schema:birthPlace tco:metapnc_g_1412 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11769181> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1345 a ns1:Person ;
+tco:metapnc_p_1345 a foaf:Person ;
     rdfs:label "Szerzeniewska, Cecylia" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1347 a ns1:Person ;
+tco:metapnc_p_1347 a foaf:Person ;
     rdfs:label "Szymanowski, Wacław" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q7958902> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1348 a ns1:Person ;
+tco:metapnc_p_1348 a foaf:Person ;
     rdfs:label "Świątkowski, Rudolf Seweryn" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1350 a ns1:Person ;
+tco:metapnc_p_1350 a foaf:Person ;
     rdfs:label "Święcicki, Paulin" ;
     owl:sameAs <http://www.wikidata.org/entity/Q2078351> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1351 a ns1:Person ;
+tco:metapnc_p_1351 a foaf:Person ;
     rdfs:label "Świętek, Jan" ;
     owl:sameAs <http://www.wikidata.org/entity/Q11719675> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1353 a ns1:Person ;
+tco:metapnc_p_1353 a foaf:Person ;
     rdfs:label "Świrski, Aleksey" ;
     schema:birthPlace tco:metapnc_g_1554 ;
     owl:sameAs <http://www.wikidata.org/entity/Q4410870> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1354 a ns1:Person ;
+tco:metapnc_p_1354 a foaf:Person ;
     rdfs:label "Tarczyński, Hipolit Bogumił" ;
     owl:sameAs <http://www.wikidata.org/entity/Q59526081> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1355 a ns1:Person ;
+tco:metapnc_p_1355 a foaf:Person ;
     rdfs:label "Tatomir, Lucjan" ;
     schema:birthPlace tco:metapnc_g_1412 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11763330> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1357 a ns1:Person ;
+tco:metapnc_p_1357 a foaf:Person ;
     rdfs:label "Terpiłowska, Julia" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1360 a ns1:Person ;
+tco:metapnc_p_1360 a foaf:Person ;
     rdfs:label "Trąmpczyński, Włodzimierz" ;
     schema:birthPlace tco:metapnc_g_1394 ;
     owl:sameAs <http://www.wikidata.org/entity/Q18456> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1361 a ns1:Person ;
+tco:metapnc_p_1361 a foaf:Person ;
     rdfs:label "Tretiak, Józef" ;
     schema:birthPlace tco:metapnc_g_1556 ;
     owl:sameAs <http://www.wikidata.org/entity/Q2813717> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1362 a ns1:Person ;
+tco:metapnc_p_1362 a foaf:Person ;
     rdfs:label "Tuchołkowa, Stefania" ;
     schema:birthPlace tco:metapnc_g_1557 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9345536> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1365 a ns1:Person ;
+tco:metapnc_p_1365 a foaf:Person ;
     rdfs:label "Turnau, Jerzy" ;
     schema:birthPlace tco:metapnc_g_1558 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11725580> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1366 a ns1:Person ;
+tco:metapnc_p_1366 a foaf:Person ;
     rdfs:label "Uniłowski, Zbigniew" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9388378> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1368 a ns1:Person ;
+tco:metapnc_p_1368 a foaf:Person ;
     rdfs:label "Urke-Nachalnik" ;
     schema:birthPlace tco:metapnc_g_1560 ;
     owl:sameAs <http://www.wikidata.org/entity/Q2904493> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1369 a ns1:Person ;
+tco:metapnc_p_1369 a foaf:Person ;
     rdfs:label "Ledóchowska, Urszula " ;
     schema:birthPlace tco:metapnc_g_1561 ;
     owl:sameAs <http://www.wikidata.org/entity/Q78649> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1371 a ns1:Person ;
+tco:metapnc_p_1371 a foaf:Person ;
     rdfs:label "Wieniarski, Antoni" ;
     owl:sameAs <http://www.wikidata.org/entity/Q61944276> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1373 a ns1:Person ;
+tco:metapnc_p_1373 a foaf:Person ;
     rdfs:label "Wiliński, Z." ;
     owl:sameAs <http://www.wikidata.org/entity/Q28497280> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1376 a ns1:Person ;
+tco:metapnc_p_1376 a foaf:Person ;
     rdfs:label "Wołowski, Michał" ;
     schema:birthPlace tco:metapnc_g_1563 ;
     owl:sameAs <http://www.wikidata.org/entity/Q8865979> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1379 a ns1:Person ;
+tco:metapnc_p_1379 a foaf:Person ;
     rdfs:label "Zaleski, Hieronim" ;
     schema:birthPlace tco:metapnc_g_1536 ;
     owl:sameAs <http://www.wikidata.org/entity/Q41502> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1381 a ns1:Person ;
+tco:metapnc_p_1381 a foaf:Person ;
     rdfs:label "Zegadłowicz, Emil" ;
     schema:birthPlace tco:metapnc_g_1448 ;
     owl:sameAs <http://www.wikidata.org/entity/Q4190109> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1382 a ns1:Person ;
+tco:metapnc_p_1382 a foaf:Person ;
     rdfs:label "Zembrzuski, Stefan" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1384 a ns1:Person ;
+tco:metapnc_p_1384 a foaf:Person ;
     rdfs:label "Żmichowska, Narcyza" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q445845> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1385 a ns1:Person ;
+tco:metapnc_p_1385 a foaf:Person ;
     rdfs:label "Żmijewska, Eugenia" ;
     schema:birthPlace tco:metapnc_g_1566 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11697269> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1386 a ns1:Person ;
+tco:metapnc_p_1386 a foaf:Person ;
     rdfs:label "Żmudzki, Wacław" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1387 a ns1:Person ;
+tco:metapnc_p_1387 a foaf:Person ;
     rdfs:label "Żółkiewski, Marian" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1388 a ns1:Person ;
+tco:metapnc_p_1388 a foaf:Person ;
     rdfs:label "Żuk-Skarszewski, Tadeusz" ;
     schema:birthPlace tco:metapnc_g_1413 ;
     owl:sameAs <http://www.wikidata.org/entity/Q58402940> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1390 a ns1:Person ;
+tco:metapnc_p_1390 a foaf:Person ;
     rdfs:label "Żurakowska, Zofia" ;
     schema:birthPlace tco:metapnc_g_1568 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9391919> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
 tco:metapnc_g_1394 a dcterms:Location ;
     rdfs:label "Prague" ;
@@ -17437,330 +17437,330 @@ tco:metapnc_g_1530 a dcterms:Location ;
     geo:lat "49.35"^^xsd:float ;
     geo:long "22.28333"^^xsd:float .
 
-tco:metapnc_p_1001 a ns1:Person ;
+tco:metapnc_p_1001 a foaf:Person ;
     rdfs:label "Abgarowicz, Kajetan" ;
     schema:birthPlace tco:metapnc_g_1437 ;
     owl:sameAs <http://www.wikidata.org/entity/Q677282> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1002 a ns1:Person ;
+tco:metapnc_p_1002 a foaf:Person ;
     rdfs:label "Adamowicz, Bogusław" ;
     schema:birthPlace tco:metapnc_g_1438 ;
     owl:sameAs <http://www.wikidata.org/entity/Q7076370> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1007 a ns1:Person ;
+tco:metapnc_p_1007 a foaf:Person ;
     rdfs:label "Balicki, Stefan" ;
     schema:birthPlace tco:metapnc_g_1439 ;
     owl:sameAs <http://www.wikidata.org/entity/Q4076629> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1027 a ns1:Person ;
+tco:metapnc_p_1027 a foaf:Person ;
     rdfs:label "Czerny, Mikołaj" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1041 a ns1:Person ;
+tco:metapnc_p_1041 a foaf:Person ;
     rdfs:label "Dzikowski, Mieczysław" ;
     schema:birthPlace tco:metapnc_g_1455 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11779714> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1042 a ns1:Person ;
+tco:metapnc_p_1042 a foaf:Person ;
     rdfs:label "Ellen, Ralf" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1045 a ns1:Person ;
+tco:metapnc_p_1045 a foaf:Person ;
     rdfs:label "Feldman, Wilhelm" ;
     schema:birthPlace tco:metapnc_g_1456 ;
     owl:sameAs <http://www.wikidata.org/entity/Q1981094> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1055 a ns1:Person ;
+tco:metapnc_p_1055 a foaf:Person ;
     rdfs:label "Gawroński, Franciszek" ;
     schema:birthPlace tco:metapnc_g_1459 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9262872> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1065 a ns1:Person ;
+tco:metapnc_p_1065 a foaf:Person ;
     rdfs:label "Graybner, Stanisław" ;
     schema:birthPlace tco:metapnc_g_1462 ;
     owl:sameAs <http://www.wikidata.org/entity/Q602468> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1067 a ns1:Person ;
+tco:metapnc_p_1067 a foaf:Person ;
     rdfs:label "Grochowalski, Adolf" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1071 a ns1:Person ;
+tco:metapnc_p_1071 a foaf:Person ;
     rdfs:label "Grudziński, Stanisław" ;
     schema:birthPlace tco:metapnc_g_1463 ;
     owl:sameAs <http://www.wikidata.org/entity/Q12157253> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1081 a ns1:Person ;
+tco:metapnc_p_1081 a foaf:Person ;
     rdfs:label "Izdebska, Władysława" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9382475> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1085 a ns1:Person ;
+tco:metapnc_p_1085 a foaf:Person ;
     rdfs:label "Jankowski, Czesław Ksawery" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1092 a ns1:Person ;
+tco:metapnc_p_1092 a foaf:Person ;
     rdfs:label "Jasieński, Bruno" ;
     schema:birthPlace tco:metapnc_g_1472 ;
     owl:sameAs <http://www.wikidata.org/entity/Q993397> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1098 a ns1:Person ;
+tco:metapnc_p_1098 a foaf:Person ;
     rdfs:label "Jeremski, Józef" ;
     owl:sameAs <http://www.wikidata.org/entity/Q18225972> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1106 a ns1:Person ;
+tco:metapnc_p_1106 a foaf:Person ;
     rdfs:label "Kamieński, Gustaw" ;
     schema:birthPlace tco:metapnc_g_1478 ;
     owl:sameAs <http://www.wikidata.org/entity/Q8862093> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1109 a ns1:Person ;
+tco:metapnc_p_1109 a foaf:Person ;
     rdfs:label "Karczewski, Jan" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11717918> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1122 a ns1:Person ;
+tco:metapnc_p_1122 a foaf:Person ;
     rdfs:label "Konopacki, Leopold" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1125 a ns1:Person ;
+tco:metapnc_p_1125 a foaf:Person ;
     rdfs:label "Kontrymowicz-Ogiński, Jan" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1130 a ns1:Person ;
+tco:metapnc_p_1130 a foaf:Person ;
     rdfs:label "Koryzma, Jerzy" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1145 a ns1:Person ;
+tco:metapnc_p_1145 a foaf:Person ;
     rdfs:label "Krechowiecki, Adam" ;
     schema:birthPlace tco:metapnc_g_1487 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9139853> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1147 a ns1:Person ;
+tco:metapnc_p_1147 a foaf:Person ;
     rdfs:label "Kreza, Wiktor" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1148 a ns1:Person ;
+tco:metapnc_p_1148 a foaf:Person ;
     rdfs:label "Kropiwnicka, Eleonora" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1149 a ns1:Person ;
+tco:metapnc_p_1149 a foaf:Person ;
     rdfs:label "Króliński, Kazimierz" ;
     schema:birthPlace tco:metapnc_g_1488 ;
     owl:sameAs <http://www.wikidata.org/entity/Q59584959> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1150 a ns1:Person ;
+tco:metapnc_p_1150 a foaf:Person ;
     rdfs:label "Kruczkowska, Maria" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1159 a ns1:Person ;
+tco:metapnc_p_1159 a foaf:Person ;
     rdfs:label "Kuncewicz, Izydor" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1165 a ns1:Person ;
+tco:metapnc_p_1165 a foaf:Person ;
     rdfs:label "Kutz, Tadeusz" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1167 a ns1:Person ;
+tco:metapnc_p_1167 a foaf:Person ;
     rdfs:label "Laskownicki, Józef Albin" ;
     owl:sameAs <http://www.wikidata.org/entity/Q100876781> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1176 a ns1:Person ;
+tco:metapnc_p_1176 a foaf:Person ;
     rdfs:label "Leśniewska, Eugenia" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1180 a ns1:Person ;
+tco:metapnc_p_1180 a foaf:Person ;
     rdfs:label "Lisicka, Anna" ;
     owl:sameAs <http://www.wikidata.org/entity/Q100943228> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1188 a ns1:Person ;
+tco:metapnc_p_1188 a foaf:Person ;
     rdfs:label "Łoziński, Walery" ;
     schema:birthPlace tco:metapnc_g_1493 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9370513> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1193 a ns1:Person ;
+tco:metapnc_p_1193 a foaf:Person ;
     rdfs:label "Łuszczewska, Jadwiga (Deotyma)" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q274324> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1196 a ns1:Person ;
+tco:metapnc_p_1196 a foaf:Person ;
     rdfs:label "Majewski, Erazm" ;
     schema:birthPlace tco:metapnc_g_1435 ;
     owl:sameAs <http://www.wikidata.org/entity/Q16543853> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1201 a ns1:Person ;
+tco:metapnc_p_1201 a foaf:Person ;
     rdfs:label "Mar, Jan Stanisław" ;
     schema:birthPlace tco:metapnc_g_1497 ;
     owl:sameAs <http://www.wikidata.org/entity/Q242423> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1202 a ns1:Person ;
+tco:metapnc_p_1202 a foaf:Person ;
     rdfs:label "Marczewski, Michał" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q104231429> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1203 a ns1:Person ;
+tco:metapnc_p_1203 a foaf:Person ;
     rdfs:label "Markiewicz, Kazimierz Dunin" ;
     schema:birthPlace tco:metapnc_g_1403 ;
     owl:sameAs <http://www.wikidata.org/entity/Q1737512> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1208 a ns1:Person ;
+tco:metapnc_p_1208 a foaf:Person ;
     rdfs:label "Miciński, Tadeusz" ;
     schema:birthPlace tco:metapnc_g_1415 ;
     owl:sameAs <http://www.wikidata.org/entity/Q1856908> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1215 a ns1:Person ;
+tco:metapnc_p_1215 a foaf:Person ;
     rdfs:label "Miłkowski, Stanisław" ;
     owl:sameAs <http://www.wikidata.org/entity/Q9342603> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1229 a ns1:Person ;
+tco:metapnc_p_1229 a foaf:Person ;
     rdfs:label "Naganowski, Edmund" ;
     schema:birthPlace tco:metapnc_g_1507 ;
     owl:sameAs <http://www.wikidata.org/entity/Q21605987> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1230 a ns1:Person ;
+tco:metapnc_p_1230 a foaf:Person ;
     rdfs:label "Nagiel, Henryk" ;
     owl:sameAs <http://www.wikidata.org/entity/Q16557492> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1245 a ns1:Person ;
+tco:metapnc_p_1245 a foaf:Person ;
     rdfs:label "Orwid, Jerzy" ;
     schema:birthPlace tco:metapnc_g_1443 ;
     owl:sameAs <http://www.wikidata.org/entity/Q1375583> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1255 a ns1:Person ;
+tco:metapnc_p_1255 a foaf:Person ;
     rdfs:label "Paszkowski, Edward" ;
     owl:sameAs <http://www.wikidata.org/entity/Q105749020> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1258 a ns1:Person ;
+tco:metapnc_p_1258 a foaf:Person ;
     rdfs:label "Piasecki, Stanisław" ;
     schema:birthPlace tco:metapnc_g_1412 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9342793> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1263 a ns1:Person ;
+tco:metapnc_p_1263 a foaf:Person ;
     rdfs:label "Pollak, Józef" ;
     owl:sameAs <http://www.wikidata.org/entity/Q11731168> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1265 a ns1:Person ;
+tco:metapnc_p_1265 a foaf:Person ;
     rdfs:label "Popławska, Felicja" ;
     schema:birthPlace tco:metapnc_g_1520 ;
     owl:sameAs <http://www.wikidata.org/entity/Q116258> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1266 a ns1:Person ;
+tco:metapnc_p_1266 a foaf:Person ;
     rdfs:label "Popławski, August" ;
     schema:birthPlace tco:metapnc_g_1521 ;
     owl:sameAs <http://www.wikidata.org/entity/Q96895799> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1276 a ns1:Person ;
+tco:metapnc_p_1276 a foaf:Person ;
     rdfs:label "Puffke, Emma" ;
     schema:birthPlace tco:metapnc_g_1416 ;
     owl:sameAs <http://www.wikidata.org/entity/Q98152971> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1286 a ns1:Person ;
+tco:metapnc_p_1286 a foaf:Person ;
     rdfs:label "Rittner, Tadeusz" ;
     schema:birthPlace tco:metapnc_g_1412 ;
     owl:sameAs <http://www.wikidata.org/entity/Q7674518> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1291 a ns1:Person ;
+tco:metapnc_p_1291 a foaf:Person ;
     rdfs:label "Romocki, Ludwik" ;
     owl:sameAs <http://www.wikidata.org/entity/Q97073007> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1299 a ns1:Person ;
+tco:metapnc_p_1299 a foaf:Person ;
     rdfs:label "Rzepecka, Jadwiga" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1303 a ns1:Person ;
+tco:metapnc_p_1303 a foaf:Person ;
     rdfs:label "Sachs, Marceli" ;
     owl:sameAs <http://www.wikidata.org/entity/Q11767396> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1326 a ns1:Person ;
+tco:metapnc_p_1326 a foaf:Person ;
     rdfs:label "Srokowski, Mieczysław" ;
     schema:birthPlace tco:metapnc_g_1544 ;
     owl:sameAs <http://www.wikidata.org/entity/Q6843625> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1330 a ns1:Person ;
+tco:metapnc_p_1330 a foaf:Person ;
     rdfs:label "Stasiak, Ludwik" ;
     schema:birthPlace tco:metapnc_g_1546 ;
     owl:sameAs <http://www.wikidata.org/entity/Q6699459> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1342 a ns1:Person ;
+tco:metapnc_p_1342 a foaf:Person ;
     rdfs:label "Szaniawski, Klemens" ;
     schema:birthPlace tco:metapnc_g_1435 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11739963> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1349 a ns1:Person ;
+tco:metapnc_p_1349 a foaf:Person ;
     rdfs:label "Świderska, Maria" ;
     schema:birthPlace tco:metapnc_g_1552 ;
     owl:sameAs <http://www.wikidata.org/entity/Q127332> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1356 a ns1:Person ;
+tco:metapnc_p_1356 a foaf:Person ;
     rdfs:label "Taylor, Jerzy Mariusz" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1359 a ns1:Person ;
+tco:metapnc_p_1359 a foaf:Person ;
     rdfs:label "Tłoczyński, Apolinary" ;
     owl:sameAs <http://www.wikidata.org/entity/Q60843414> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1364 a ns1:Person ;
+tco:metapnc_p_1364 a foaf:Person ;
     rdfs:label "Turczyński, Juliusz" ;
     schema:birthPlace tco:metapnc_g_1412 ;
     owl:sameAs <http://www.wikidata.org/entity/Q25783793> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1367 a ns1:Person ;
+tco:metapnc_p_1367 a foaf:Person ;
     rdfs:label "Urbanowska, Zofia" ;
     schema:birthPlace tco:metapnc_g_1559 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9391880> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1374 a ns1:Person ;
+tco:metapnc_p_1374 a foaf:Person ;
     rdfs:label "Witkiewicz, Stanisław Ignacy" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q381238> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1375 a ns1:Person ;
+tco:metapnc_p_1375 a foaf:Person ;
     rdfs:label "Wołodźko, Walery" ;
     owl:sameAs <http://www.wikidata.org/entity/Q25711422> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
 tco:metapnc_g_1407 a dcterms:Location ;
     rdfs:label "Katowice" ;
@@ -17809,208 +17809,208 @@ tco:metapnc_g_1536 a dcterms:Location ;
     geo:lat "51.75"^^xsd:float ;
     geo:long "22.1333"^^xsd:float .
 
-tco:metapnc_p_1015 a ns1:Person ;
+tco:metapnc_p_1015 a foaf:Person ;
     rdfs:label "Bezłuda, Mirosław" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1024 a ns1:Person ;
+tco:metapnc_p_1024 a foaf:Person ;
     rdfs:label "Cieszkowska, Zofia" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1053 a ns1:Person ;
+tco:metapnc_p_1053 a foaf:Person ;
     rdfs:label "Garlikowska, Helena" ;
     schema:birthPlace tco:metapnc_g_1458 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11708826> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1057 a ns1:Person ;
+tco:metapnc_p_1057 a foaf:Person ;
     rdfs:label "Gąsiorowski, Wacław" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q4143141> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1061 a ns1:Person ;
+tco:metapnc_p_1061 a foaf:Person ;
     rdfs:label "Godlewska, Ludwika" ;
     owl:sameAs <http://www.wikidata.org/entity/Q11764021> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1064 a ns1:Person ;
+tco:metapnc_p_1064 a foaf:Person ;
     rdfs:label "Grabiński, Stefan" ;
     schema:birthPlace tco:metapnc_g_1461 ;
     owl:sameAs <http://www.wikidata.org/entity/Q721032> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1068 a ns1:Person ;
+tco:metapnc_p_1068 a foaf:Person ;
     rdfs:label "Grochowska, Wanda" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q59816856> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1086 a ns1:Person ;
+tco:metapnc_p_1086 a foaf:Person ;
     rdfs:label "Janowski, Aleksander" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9145508> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1096 a ns1:Person ;
+tco:metapnc_p_1096 a foaf:Person ;
     rdfs:label "Jellenta, Cezary" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9188424> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1104 a ns1:Person ;
+tco:metapnc_p_1104 a foaf:Person ;
     rdfs:label "Kaden-Bandrowski, Juliusz" ;
     schema:birthPlace tco:metapnc_g_1440 ;
     owl:sameAs <http://www.wikidata.org/entity/Q724811> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1127 a ns1:Person ;
+tco:metapnc_p_1127 a foaf:Person ;
     rdfs:label "Korczak, Janusz" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q152441> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1135 a ns1:Person ;
+tco:metapnc_p_1135 a foaf:Person ;
     rdfs:label "Kowerska, Zofia" ;
     schema:birthPlace tco:metapnc_g_1485 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9391783> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1137 a ns1:Person ;
+tco:metapnc_p_1137 a foaf:Person ;
     rdfs:label "Kozubowski, Feliks" ;
     owl:sameAs <http://www.wikidata.org/entity/Q11697823> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1151 a ns1:Person ;
+tco:metapnc_p_1151 a foaf:Person ;
     rdfs:label "Krzemieniecka, Hanna" ;
     owl:sameAs <http://www.wikidata.org/entity/Q9285993> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1161 a ns1:Person ;
+tco:metapnc_p_1161 a foaf:Person ;
     rdfs:label "Kurnatowski, Ludwik" ;
     owl:sameAs <http://www.wikidata.org/entity/Q16354693> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1163 a ns1:Person ;
+tco:metapnc_p_1163 a foaf:Person ;
     rdfs:label "Kurzawa, Feliks" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1170 a ns1:Person ;
+tco:metapnc_p_1170 a foaf:Person ;
     rdfs:label "Lekszycki, Bohdan" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1183 a ns1:Person ;
+tco:metapnc_p_1183 a foaf:Person ;
     rdfs:label "Lubomirski, Józef" ;
     schema:birthPlace tco:metapnc_g_1492 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11730879> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1189 a ns1:Person ;
+tco:metapnc_p_1189 a foaf:Person ;
     rdfs:label "Łoziński, Władysław" ;
     schema:birthPlace tco:metapnc_g_1464 ;
     owl:sameAs <http://www.wikidata.org/entity/Q4265443> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1192 a ns1:Person ;
+tco:metapnc_p_1192 a foaf:Person ;
     rdfs:label "Łubieński, Maciej" ;
     owl:sameAs <http://www.wikidata.org/entity/Q24430156> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1224 a ns1:Person ;
+tco:metapnc_p_1224 a foaf:Person ;
     rdfs:label "Mrozowicka, Irena" ;
     schema:birthPlace tco:metapnc_g_1505 ;
     owl:sameAs <http://www.wikidata.org/entity/Q24635104> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1235 a ns1:Person ;
+tco:metapnc_p_1235 a foaf:Person ;
     rdfs:label "Niemojowski, Ludwik" ;
     schema:birthPlace tco:metapnc_g_1508 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11763876> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1236 a ns1:Person ;
+tco:metapnc_p_1236 a foaf:Person ;
     rdfs:label "Niewiadomska, Cecylia" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q3593982> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1244 a ns1:Person ;
+tco:metapnc_p_1244 a foaf:Person ;
     rdfs:label "Orwicz, Jerzy" ;
     schema:birthPlace tco:metapnc_g_1510 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11789958> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1257 a ns1:Person ;
+tco:metapnc_p_1257 a foaf:Person ;
     rdfs:label "Piasecka, Julia" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1269 a ns1:Person ;
+tco:metapnc_p_1269 a foaf:Person ;
     rdfs:label "Prażmowska, Teresa" ;
     schema:birthPlace tco:metapnc_g_1522 ;
     owl:sameAs <http://www.wikidata.org/entity/Q43402029> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1270 a ns1:Person ;
+tco:metapnc_p_1270 a foaf:Person ;
     rdfs:label "Prędski, Artur" ;
     schema:birthPlace tco:metapnc_g_1489 ;
     owl:sameAs <http://www.wikidata.org/entity/Q29016629> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1311 a ns1:Person ;
+tco:metapnc_p_1311 a foaf:Person ;
     rdfs:label "Serafinowicz, Wacław" ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1319 a ns1:Person ;
+tco:metapnc_p_1319 a foaf:Person ;
     rdfs:label "Słoński, Edward" ;
     schema:birthPlace tco:metapnc_g_1539 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9251241> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1324 a ns1:Person ;
+tco:metapnc_p_1324 a foaf:Person ;
     rdfs:label "Sokołowska, Zofia" ;
     owl:sameAs <http://www.wikidata.org/entity/Q59688752> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1327 a ns1:Person ;
+tco:metapnc_p_1327 a foaf:Person ;
     rdfs:label "Stablewska, Irena" ;
     schema:birthPlace tco:metapnc_g_1545 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11713832> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1336 a ns1:Person ;
+tco:metapnc_p_1336 a foaf:Person ;
     rdfs:label "Strokowa, Jadwiga" ;
     schema:birthPlace tco:metapnc_g_1547 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11716012> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1339 a ns1:Person ;
+tco:metapnc_p_1339 a foaf:Person ;
     rdfs:label "Sygietyński, Antoni" ;
     schema:birthPlace tco:metapnc_g_1548 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9157443> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1352 a ns1:Person ;
+tco:metapnc_p_1352 a foaf:Person ;
     rdfs:label "Świętochowski, Aleksander" ;
     schema:birthPlace tco:metapnc_g_1553 ;
     owl:sameAs <http://www.wikidata.org/entity/Q723324> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1363 a ns1:Person ;
+tco:metapnc_p_1363 a foaf:Person ;
     rdfs:label "Tuczyński, Franciszek Ksawery" ;
     owl:sameAs <http://www.wikidata.org/entity/Q13534535> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1378 a ns1:Person ;
+tco:metapnc_p_1378 a foaf:Person ;
     rdfs:label "Zacharjasiewicz, Jan" ;
     schema:birthPlace tco:metapnc_g_1564 ;
     owl:sameAs <http://www.wikidata.org/entity/Q6150259> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1389 a ns1:Person ;
+tco:metapnc_p_1389 a foaf:Person ;
     rdfs:label "Żuławski, Jerzy" ;
     schema:birthPlace tco:metapnc_g_1567 ;
     owl:sameAs <http://www.wikidata.org/entity/Q1373117> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
 tco:metapnc_g_1395 a dcterms:Location ;
     rdfs:label "Częstochowa" ;
@@ -18036,96 +18036,96 @@ tco:metapnc_g_1406 a dcterms:Location ;
     geo:lat "53.17806"^^xsd:float ;
     geo:long "22.05935"^^xsd:float .
 
-tco:metapnc_p_1013 a ns1:Person ;
+tco:metapnc_p_1013 a foaf:Person ;
     rdfs:label "Berent, Wacław" ;
     schema:birthPlace tco:metapnc_g_1442 ;
     owl:sameAs <http://www.wikidata.org/entity/Q353238> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1016 a ns1:Person ;
+tco:metapnc_p_1016 a foaf:Person ;
     rdfs:label "Błażejowski, Aleksander" ;
     schema:birthPlace tco:metapnc_g_1412 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9145262> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1054 a ns1:Person ;
+tco:metapnc_p_1054 a foaf:Person ;
     rdfs:label "Gawalewicz, Marian" ;
     schema:birthPlace tco:metapnc_g_1412 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11769390> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1120 a ns1:Person ;
+tco:metapnc_p_1120 a foaf:Person ;
     rdfs:label "Konar, Aleksander Alfred" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q19267152> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1121 a ns1:Person ;
+tco:metapnc_p_1121 a foaf:Person ;
     rdfs:label "Konczyński, Tadeusz" ;
     schema:birthPlace tco:metapnc_g_1413 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9354430> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1128 a ns1:Person ;
+tco:metapnc_p_1128 a foaf:Person ;
     rdfs:label "Koreywo, Bolesław" ;
     owl:sameAs <http://www.wikidata.org/entity/Q100956178> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1166 a ns1:Person ;
+tco:metapnc_p_1166 a foaf:Person ;
     rdfs:label "Lam, Jan" ;
     schema:birthPlace tco:metapnc_g_1489 ;
     owl:sameAs <http://www.wikidata.org/entity/Q673283> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1169 a ns1:Person ;
+tco:metapnc_p_1169 a foaf:Person ;
     rdfs:label "Lazarusówna, Fryderyka" ;
     schema:birthPlace tco:metapnc_g_1412 ;
     owl:sameAs <http://www.wikidata.org/entity/Q97072892> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1187 a ns1:Person ;
+tco:metapnc_p_1187 a foaf:Person ;
     rdfs:label "Łozińska, Konstancja" ;
     owl:sameAs <http://www.wikidata.org/entity/Q58824649> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1210 a ns1:Person ;
+tco:metapnc_p_1210 a foaf:Person ;
     rdfs:label "Migowa, Maria Jadwiga" ;
     owl:sameAs <http://www.wikidata.org/entity/Q11715932> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1268 a ns1:Person ;
+tco:metapnc_p_1268 a foaf:Person ;
     rdfs:label "Porawska, Bronisława" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1304 a ns1:Person ;
+tco:metapnc_p_1304 a foaf:Person ;
     rdfs:label "Sadowska, Maria" ;
     schema:birthPlace tco:metapnc_g_1533 ;
     owl:sameAs <http://www.wikidata.org/entity/Q21288231> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1314 a ns1:Person ;
+tco:metapnc_p_1314 a foaf:Person ;
     rdfs:label "Sienkiewicz, Henryk" ;
     schema:birthPlace tco:metapnc_g_1536 ;
     owl:sameAs <http://www.wikidata.org/entity/Q41502> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1346 a ns1:Person ;
+tco:metapnc_p_1346 a foaf:Person ;
     rdfs:label "Szpotański, Stanisław" ;
     schema:birthPlace tco:metapnc_g_1551 ;
     owl:sameAs <http://www.wikidata.org/entity/Q24717963> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1370 a ns1:Person ;
+tco:metapnc_p_1370 a foaf:Person ;
     rdfs:label "Weyssenhoff, Józef" ;
     schema:birthPlace tco:metapnc_g_1562 ;
     owl:sameAs <http://www.wikidata.org/entity/Q4893733> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1372 a ns1:Person ;
+tco:metapnc_p_1372 a foaf:Person ;
     rdfs:label "Wierzbiński, Maciej" ;
     schema:birthPlace tco:metapnc_g_1416 ;
     owl:sameAs <http://www.wikidata.org/entity/Q21288263> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
 tco:metapnc_g_1428 a dcterms:Location ;
     rdfs:label "Zolochiv" ;
@@ -18135,57 +18135,57 @@ tco:metapnc_g_1428 a dcterms:Location ;
     geo:lat "49.80755"^^xsd:float ;
     geo:long "24.90056"^^xsd:float .
 
-tco:metapnc_p_1018 a ns1:Person ;
+tco:metapnc_p_1018 a foaf:Person ;
     rdfs:label "Bogusławska, Maria" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11768747> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1021 a ns1:Person ;
+tco:metapnc_p_1021 a foaf:Person ;
     rdfs:label "Bukowiecka, Zofia" ;
     schema:birthPlace tco:metapnc_g_1445 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9391719> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1035 a ns1:Person ;
+tco:metapnc_p_1035 a foaf:Person ;
     rdfs:label "Dmochowska, Emma (z domu Jeleńska)" ;
     schema:birthPlace tco:metapnc_g_1451 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11696882> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1152 a ns1:Person ;
+tco:metapnc_p_1152 a foaf:Person ;
     rdfs:label "Krzewiński, Julian" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q8862578> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1178 a ns1:Person ;
+tco:metapnc_p_1178 a foaf:Person ;
     rdfs:label "Lewicka, Anna" ;
     schema:birthPlace tco:metapnc_g_1412 ;
     owl:sameAs <http://www.wikidata.org/entity/Q58426304> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1232 a ns1:Person ;
+tco:metapnc_p_1232 a foaf:Person ;
     rdfs:label "Niedźwiecka, Zofia" ;
     owl:sameAs <http://www.wikidata.org/entity/Q104135331> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1284 a ns1:Person ;
+tco:metapnc_p_1284 a foaf:Person ;
     rdfs:label "Reutt, Maria Jadwiga" ;
     owl:sameAs <http://www.wikidata.org/entity/Q59693304> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1285 a ns1:Person ;
+tco:metapnc_p_1285 a foaf:Person ;
     rdfs:label "Reymont, Władysław Stanisław" ;
     schema:birthPlace tco:metapnc_g_1528 ;
     owl:sameAs <http://www.wikidata.org/entity/Q121180> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1358 a ns1:Person ;
+tco:metapnc_p_1358 a foaf:Person ;
     rdfs:label "Tetmajer, Kazimierz Przerwa" ;
     schema:birthPlace tco:metapnc_g_1555 ;
     owl:sameAs <http://www.wikidata.org/entity/Q473139> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
 tco:metapnc_g_1398 a dcterms:Location ;
     rdfs:label "Torun" ;
@@ -18211,45 +18211,45 @@ tco:metapnc_g_1435 a dcterms:Location ;
     geo:lat "51.25"^^xsd:float ;
     geo:long "22.56667"^^xsd:float .
 
-tco:metapnc_p_1069 a ns1:Person ;
+tco:metapnc_p_1069 a foaf:Person ;
     rdfs:label "Grot-Bęczkowska, Wanda" ;
     owl:sameAs <http://www.wikidata.org/entity/Q9370796> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1091 a ns1:Person ;
+tco:metapnc_p_1091 a foaf:Person ;
     rdfs:label "Jaroszyński, Tadeusz" ;
     schema:birthPlace tco:metapnc_g_1471 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9354351> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1099 a ns1:Person ;
+tco:metapnc_p_1099 a foaf:Person ;
     rdfs:label "Jeske-Choiński, Teodor" ;
     schema:birthPlace tco:metapnc_g_1475 ;
     owl:sameAs <http://www.wikidata.org/entity/Q4177179> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1254 a ns1:Person ;
+tco:metapnc_p_1254 a foaf:Person ;
     rdfs:label "Pasławski, Stanisław" ;
     owl:sameAs <http://www.wikidata.org/entity/Q9342770> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1273 a ns1:Person ;
+tco:metapnc_p_1273 a foaf:Person ;
     rdfs:label "Przyborowski, Walery" ;
     schema:birthPlace tco:metapnc_g_1524 ;
     owl:sameAs <http://www.wikidata.org/entity/Q4385151> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1289 a ns1:Person ;
+tco:metapnc_p_1289 a foaf:Person ;
     rdfs:label "Rogosz, Józef (1844-1896)" ;
     schema:birthPlace tco:metapnc_g_1530 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11731264> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1315 a ns1:Person ;
+tco:metapnc_p_1315 a foaf:Person ;
     rdfs:label "Sieroszewski, Wacław" ;
     schema:birthPlace tco:metapnc_g_1537 ;
     owl:sameAs <http://www.wikidata.org/entity/Q2038910> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
 tco:metapnc_g_1396 a dcterms:Location ;
     rdfs:label "Leipzig" ;
@@ -18259,50 +18259,50 @@ tco:metapnc_g_1396 a dcterms:Location ;
     geo:lat "51.33962"^^xsd:float ;
     geo:long "12.37129"^^xsd:float .
 
-tco:metapnc_p_1012 a ns1:Person ;
+tco:metapnc_p_1012 a foaf:Person ;
     rdfs:label "Belmont, Leo" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q3891877> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1058 a ns1:Person ;
+tco:metapnc_p_1058 a foaf:Person ;
     rdfs:label "Glücksman, Cecylia" ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1154 a ns1:Person ;
+tco:metapnc_p_1154 a foaf:Person ;
     rdfs:label "Krzyżanowski, Anatol" ;
     owl:sameAs <http://www.wikidata.org/entity/Q59138817> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1256 a ns1:Person ;
+tco:metapnc_p_1256 a foaf:Person ;
     rdfs:label "Perzyński, Włodzimierz" ;
     schema:birthPlace tco:metapnc_g_1516 ;
     owl:sameAs <http://www.wikidata.org/entity/Q8028923> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1275 a ns1:Person ;
+tco:metapnc_p_1275 a foaf:Person ;
     rdfs:label "Przybyszewski, Stanisław" ;
     schema:birthPlace tco:metapnc_g_1525 ;
     owl:sameAs <http://www.wikidata.org/entity/Q921405> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1302 a ns1:Person ;
+tco:metapnc_p_1302 a foaf:Person ;
     rdfs:label "Sabowski, Władysław" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q4403576> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1337 a ns1:Person ;
+tco:metapnc_p_1337 a foaf:Person ;
     rdfs:label "Strug, Andrzej" ;
     schema:birthPlace tco:metapnc_g_1435 ;
     owl:sameAs <http://www.wikidata.org/entity/Q4759711> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1383 a ns1:Person ;
+tco:metapnc_p_1383 a foaf:Person ;
     rdfs:label "Żeromski, Stefan" ;
     schema:birthPlace tco:metapnc_g_1509 ;
     owl:sameAs <http://www.wikidata.org/entity/Q366040> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
 tco:metapnc_g_1408 a dcterms:Location ;
     rdfs:label "Vilnius" ;
@@ -18319,34 +18319,34 @@ tco:metapnc_g_1431 a dcterms:Location ;
     geo:lat "41.85003"^^xsd:float ;
     geo:long "-87.65005"^^xsd:float .
 
-tco:metapnc_p_1040 a ns1:Person ;
+tco:metapnc_p_1040 a foaf:Person ;
     rdfs:label "Dygasiński, Adolf" ;
     schema:birthPlace tco:metapnc_g_1454 ;
     owl:sameAs <http://www.wikidata.org/entity/Q2376615> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1105 a ns1:Person ;
+tco:metapnc_p_1105 a foaf:Person ;
     rdfs:label "Kallas, Aniela" ;
     schema:birthPlace tco:metapnc_g_1464 ;
     owl:sameAs <http://www.wikidata.org/entity/Q30061419> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1205 a ns1:Person ;
+tco:metapnc_p_1205 a foaf:Person ;
     rdfs:label "Marrené-Morzkowska, Waleria" ;
     schema:birthPlace tco:metapnc_g_1498 ;
     owl:sameAs <http://www.wikidata.org/entity/Q9370417> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1271 a ns1:Person ;
+tco:metapnc_p_1271 a foaf:Person ;
     rdfs:label "Prus, Bolesław" ;
     schema:birthPlace tco:metapnc_g_1523 ;
     owl:sameAs <http://www.wikidata.org/entity/Q144439> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1377 a ns1:Person ;
+tco:metapnc_p_1377 a foaf:Person ;
     rdfs:label "Wotowski, Stanisław Antoni" ;
     owl:sameAs <http://www.wikidata.org/entity/Q9341533> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
 tco:metapnc_g_1430 a dcterms:Location ;
     rdfs:label "St Petersburg" ;
@@ -18355,17 +18355,17 @@ tco:metapnc_g_1430 a dcterms:Location ;
     geo:lat "59.93863"^^xsd:float ;
     geo:long "30.31413"^^xsd:float .
 
-tco:metapnc_p_1186 a ns1:Person ;
+tco:metapnc_p_1186 a foaf:Person ;
     rdfs:label "Łoś, Wincenty" ;
     schema:birthPlace tco:metapnc_g_1413 ;
     owl:sameAs <http://www.wikidata.org/entity/Q18568296> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1292 a ns1:Person ;
+tco:metapnc_p_1292 a foaf:Person ;
     rdfs:label "Rosinkiewicz, Kazimierz" ;
     schema:birthPlace tco:metapnc_g_1412 ;
     owl:sameAs <http://www.wikidata.org/entity/Q16566175> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
 tco:metapnc_g_1403 a dcterms:Location ;
     rdfs:label "Kyiv" ;
@@ -18374,111 +18374,111 @@ tco:metapnc_g_1403 a dcterms:Location ;
     geo:lat "50.45466"^^xsd:float ;
     geo:long "30.5238"^^xsd:float .
 
-tco:metapnc_p_1037 a ns1:Person ;
+tco:metapnc_p_1037 a foaf:Person ;
     rdfs:label "Dołęga-Mostowicz, Tadeusz" ;
     schema:birthPlace tco:metapnc_g_1453 ;
     owl:sameAs <http://www.wikidata.org/entity/Q973270> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1100 a ns1:Person ;
+tco:metapnc_p_1100 a foaf:Person ;
     rdfs:label "Jezierski, Edmund" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q21288157> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1195 a ns1:Person ;
+tco:metapnc_p_1195 a foaf:Person ;
     rdfs:label "Maciejowski, Józef" ;
     schema:birthPlace tco:metapnc_g_1415 ;
     owl:sameAs <http://www.wikidata.org/entity/Q26973159> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1214 a ns1:Person ;
+tco:metapnc_p_1214 a foaf:Person ;
     rdfs:label "Miłaszewska, Wanda" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q7943084> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1116 a ns1:Person ;
+tco:metapnc_p_1116 a foaf:Person ;
     rdfs:label "Kiedrzyński, Stefan" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q7606158> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1217 a ns1:Person ;
+tco:metapnc_p_1217 a foaf:Person ;
     rdfs:label "Mniszkówna, Helena" ;
     schema:birthPlace tco:metapnc_g_1500 ;
     owl:sameAs <http://www.wikidata.org/entity/Q11708825> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1252 a ns1:Person ;
+tco:metapnc_p_1252 a foaf:Person ;
     rdfs:label "Papi, Jadwiga Teresa" ;
     schema:birthPlace tco:metapnc_g_1514 ;
     owl:sameAs <http://www.wikidata.org/entity/Q17313427> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1312 a ns1:Person ;
+tco:metapnc_p_1312 a foaf:Person ;
     rdfs:label "Sewer" ;
     schema:birthPlace tco:metapnc_g_1513 ;
     owl:sameAs <http://www.wikidata.org/entity/Q1657304> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1380 a ns1:Person ;
+tco:metapnc_p_1380 a foaf:Person ;
     rdfs:label "Zapolska, Gabriela" ;
     schema:birthPlace tco:metapnc_g_1565 ;
     owl:sameAs <http://www.wikidata.org/entity/Q454870> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
-tco:metapnc_p_1008 a ns1:Person ;
+tco:metapnc_p_1008 a foaf:Person ;
     rdfs:label "Bałucki, Michał" ;
     schema:birthPlace tco:metapnc_g_1413 ;
     owl:sameAs <http://www.wikidata.org/entity/Q1894116> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1009 a ns1:Person ;
+tco:metapnc_p_1009 a foaf:Person ;
     rdfs:label "Bandrowski, Jerzy" ;
     schema:birthPlace tco:metapnc_g_1440 ;
     owl:sameAs <http://www.wikidata.org/entity/Q968884> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1331 a ns1:Person ;
+tco:metapnc_p_1331 a foaf:Person ;
     rdfs:label "Staśko, Paweł" ;
     owl:sameAs <http://www.wikidata.org/entity/Q97584151> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1101 a ns1:Person ;
+tco:metapnc_p_1101 a foaf:Person ;
     rdfs:label "Jeż, Teodor Tomasz" ;
     schema:birthPlace tco:metapnc_g_1476 ;
     owl:sameAs <http://www.wikidata.org/entity/Q112029> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1072 a ns1:Person ;
+tco:metapnc_p_1072 a foaf:Person ;
     rdfs:label "Gruszecki, Artur" ;
     schema:birthPlace tco:metapnc_g_1464 ;
     owl:sameAs <http://www.wikidata.org/entity/Q2689341> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1247 a ns1:Person ;
+tco:metapnc_p_1247 a foaf:Person ;
     rdfs:label "Ossendowski, Ferdynand Antoni" ;
     schema:birthPlace tco:metapnc_g_1512 ;
     owl:sameAs <http://www.wikidata.org/entity/Q1392335> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
-tco:metapnc_p_1287 a ns1:Person ;
+tco:metapnc_p_1287 a foaf:Person ;
     rdfs:label "Rodziewiczówna, Maria" ;
     schema:birthPlace tco:metapnc_g_1529 ;
     owl:sameAs <http://www.wikidata.org/entity/Q6761541> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
 tco:metapnc_z_1570 a dcterms:Location ;
     rdfs:label "Prussian Partition" ;
     tco:isPartition true ;
     owl:sameAs <https://www.wikidata.org/wiki/Q129791> .
 
-tco:metapnc_p_1246 a ns1:Person ;
+tco:metapnc_p_1246 a foaf:Person ;
     rdfs:label "Orzeszkowa, Eliza" ;
     schema:birthPlace tco:metapnc_g_1511 ;
     owl:sameAs <http://www.wikidata.org/entity/Q240174> ;
-    ns1:gender "female" .
+    foaf:gender "female" .
 
 tco:metapnc_g_1415 a dcterms:Location ;
     rdfs:label "Lodz" ;
@@ -18493,11 +18493,11 @@ tco:metapnc_z_1569 a dcterms:Location ;
     tco:isPartition true ;
     owl:sameAs <https://www.wikidata.org/wiki/Q129794> .
 
-tco:metapnc_p_1143 a ns1:Person ;
+tco:metapnc_p_1143 a foaf:Person ;
     rdfs:label "Kraszewski, Józef Ignacy" ;
     schema:birthPlace tco:metapnc_g_1418 ;
     owl:sameAs <http://www.wikidata.org/entity/Q254524> ;
-    ns1:gender "male" .
+    foaf:gender "male" .
 
 tco:metapnc_z_1571 a dcterms:Location ;
     rdfs:label "Russian Partition" ;
