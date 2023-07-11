@@ -42,8 +42,32 @@ Exactly one edition of each novel was selected from the 5,326 pieces of literary
 - Epoch
 #### Classes attributes
 #### Classes relations
-#### Example
+#### Examples
 ```turtle
+tco:metapnc_e_1572 a dcterms:PeriodOfTime ;
+    rdfs:label "Interwar period" ;
+    tco:isEpoch true ;
+    owl:sameAs <https://www.wikidata.org/wiki/Q11761904> .
+
+tco:metapnc_p_1100 a foaf:Person ;
+    rdfs:label "Jezierski, Edmund" ;
+    schema:birthPlace tco:metapnc_g_1418 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q21288157> ;
+    foaf:gender "male" .
+
+tco:metapnc_g_1418 a dcterms:Location ;
+    rdfs:label "Warsaw" ;
+    tco:inPartition tco:metapnc_z_1571 ;
+    owl:sameAs <http://www.wikidata.org/entity/Q270>,
+        <https://www.geonames.org/756135> ;
+    geo:lat "52.22977"^^xsd:float ;
+    geo:long "21.01178"^^xsd:float .
+
+tco:metapnc_z_1571 a dcterms:Location ;
+    rdfs:label "Russian Partition" ;
+    tco:isPartition true ;
+    owl:sameAs <https://www.wikidata.org/wiki/Q129797> .
+
 tco:metapnc_b_246 a tco:Text,
         dcterms:BibliographicResource ;
     tco:inEpoch tco:metapnc_e_1572 ;
