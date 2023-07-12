@@ -66,7 +66,8 @@ The attributes of the individual classes comprising the ontology not only enable
 - **foaf:gender** and **schema:birthPlace** for **tco:Person** class,
 - **tco:numberOfReissues**, **tco:numberOfTokens** and location of the place of publication in a particular partition (**tco:inPartition**) for **tco:Text** class,
 - information on the literary period within which the text included in the corpus was written (**tco:inEpoch**).
- 
+
+Each class instance can be further extended with external identifiers (**owl:sameAs**), and individual documents can contain direct references to full-text files (**schema:contentUrl**).
 
 #### Examples
 
