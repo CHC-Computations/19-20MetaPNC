@@ -33,6 +33,11 @@ Exactly one edition of each novel was selected from the 5,326 pieces of literary
    - no more than 2 reprints >= 30%
    - more than 2 reprints >= 30%
 
+     
+<p align="center">
+<img src="balancing_criteria.png" alt="Balancing criteria" width="75%">
+</p>
+
 ### Metadata (PH)
 #### Classes
 
