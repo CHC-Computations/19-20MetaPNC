@@ -42,14 +42,22 @@ The following proportions of titles were obtained for each balance criterion:
 </p>
 
 ### Metadata (PH)
+
+
+#### Ontology (PH)
+- ontology description
+- ontology visualization
+![](TCO_ontology.jpg)
+
+
 #### Classes
 
-The corpus data model allows the following objects found in the collection to be described:
-- a single text,
-- the entities responsible for the single text, in particular persons and corporate authorities,
-- places of publication and other locations relevant to the balance of the corpus,
-- time periods, in particular literary epochs,
-- genres and subjects of the texts.
+The corpus data model was built on the basis of the general TCO ontology and allows the following objects found in the collection to be described:
+- a single text (**tco:Text**),
+- the entities responsible for the single text, in particular persons (tco:Person) and corporate authorities (tco:CorporateBody),
+- places of publication and other locations relevant to the balance of the corpus (tco:Place and tco:Partition),
+- time periods, in particular literary epochs (tco:Epoch),
+- genres and subjects of the texts (tco:Genre).
 
 In addition, a general Corpus class is also specified, representing a single set of texts.
 
@@ -96,10 +104,7 @@ tco:metapnc_b_246 a tco:Text,
     owl:sameAs <http://polona.pl/item/84911046> .
 ```
 
-#### Ontology (PH)
-- ontology description
-- ontology visualization
-![](TCO_ontology.jpg)
+
 
 ## Data
 The texts collected in the corpus can be retrieved directly from their providers using `fetch-data.py` script.
