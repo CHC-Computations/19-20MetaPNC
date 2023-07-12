@@ -54,12 +54,12 @@ The following proportions of titles were obtained for each balance criterion:
 
 The corpus data model was built on the basis of the general TCO ontology and allows the following objects found in the collection to be described:
 - a single text (**tco:Text**),
-- the entities responsible for the single text, in particular persons (**tco:Person**) and corporate authorities (**tco:CorporateBody**),
+- the entities responsible for the single text, in particular persons (**tco:Person**),
 - places of publication and other locations relevant to the balance of the corpus (**tco:Place** and **tco:Partition**),
-- time periods, in particular literary epochs (**tco:Epoch**),
-- genres and subjects of the texts (**tco:Genre**).
+- time periods, in particular literary epochs (**tco:Epoch**).
 
-In addition, a general Corpus class is also specified, representing a single set of texts.
+
+In addition, a general Corpus class (**tco:Corpus**) is also specified, representing a single set of texts.
 
 #### Classes attributes
 #### Classes relations
