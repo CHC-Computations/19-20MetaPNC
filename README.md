@@ -24,7 +24,7 @@ Exactly one edition of each novel was selected from the 5,326 pieces of literary
 
 ### Balancing criteria:
 
-As it was not possible to maintain equal proportions between classes, we determined the minimum and maximum share of a particular text class in the corpus. 
+The corpus was balanced historically and geographically. Since it was impossible to achieve equal proportions between the classes, we determined the minimum and maximum share of a particular text class in the corpus. Our priority was to balance the corpus based on the date and place of publication. 
 1. Date: three literary eras distinguished in Polish literary studies determined by the date of first publication (>= 20% each)
    - Positivism (1864–1890)
    - Young Poland (1890–1918)
@@ -35,7 +35,7 @@ As it was not possible to maintain equal proportions between classes, we determi
    - no more than 2 reprints >= 30%
    - more than 2 reprints >= 30%
 
-We obtained the following proportions of titles for each balance criterion:
+The following proportions of titles were obtained for each balance criterion:
 
 <p align="center">
   <img src="balancing_criteria.jpg" alt="Balancing criteria" width="65%">
