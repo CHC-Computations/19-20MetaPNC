@@ -132,8 +132,7 @@ pip install requests
 
 The knowledge graph and code in the repository are made available under a Creative Commons Attribution International 4.0 licence [(CC BY)](https://creativecommons.org/licenses/by/4.0/).
 The texts in the corpus are in the public domain. Detailed information about the licences can be found at the following links:
-
-- [Polona](https://polona.pl/static/polona/22d8f8e5-078f-41f1-93ed-daceb2ef98c7)
+- [Polona (pl)](https://polona.pl/static/polona/22d8f8e5-078f-41f1-93ed-daceb2ef98c7), [Polona (en)](https://polona.pl/static/polona/d59af5c6-45fb-4a79-8b79-ab0369067931)
 - [Wolne Lektury](https://wolnelektury.pl/info/zasady-wykorzystania/)
 - [Wikisource](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pl)
 
