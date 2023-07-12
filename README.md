@@ -3,7 +3,7 @@
 
 The corpus consists of 1,000 novels originally written in Polish and initially published as books between 1864 and 1939, with the plot timeframe set after 1815. The current version is v1.0.1.
 
-Following Linked Open Data (LOD) standards, we do not publish the corpus texts in .txt format. Instead, the entire corpus is accessible through a knowledge graph in [Turtle (.ttl) format] (https://www.w3.org/TR/turtle/), with each text being linked separately. The following sections include a tutorial and code explanation to assist in downloading all the corpus texts independently.
+Following Linked Open Data (LOD) standards, we do not publish the corpus texts in .txt format. Instead, the entire corpus is accessible through a knowledge graph in [Turtle (.ttl) format](https://www.w3.org/TR/turtle/), with each text being linked separately. The following sections include a tutorial and code explanation to assist in downloading all the corpus texts independently.
 
 ## Contributors
 
