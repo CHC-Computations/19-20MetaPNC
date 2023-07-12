@@ -1,7 +1,7 @@
 # 19-20MetaPNC
 ***Metadata-enriched Polish Novel Corpus from the 19th and 20th centuries***
 
-The corpus consists of 1,000 novels originally written in Polish and initially published as books between 1864 and 1939, with the plot timeframe set after 1815. The current version is v1.0.1. 
+The corpus consists of 1,000 novels originally written in Polish and initially published as books between 1864 and 1939, with the plot timeframe set after 1815. The current version is v1.0.1.
 
 Following Linked Open Data (LOD) standards, we do not publish the corpus texts in .txt format. Instead, the entire corpus is accessible through a knowledge graph in .ttl format, with each text being linked separately. The following sections include a tutorial and code explanation to assist in downloading all the corpus texts independently.
 
@@ -14,17 +14,17 @@ Following Linked Open Data (LOD) standards, we do not publish the corpus texts i
 
 ## Corpus design
 
-The collected texts come from different sources. 
-The initial set consisted of 100 novels from the [Polish ELTeC subcorpus](https://distantreading.github.io/ELTeC/pol/index.html), encoded in TEI format. 
-Subsequently, an additional 193 texts from the [Wolne Lektury](https://wolnelektury.pl/) library were added. The Wolne Lektury data is accessible in a custom XML format that preserves paragraph boundary information. 
-Next, 225 novels from the Polish edition of the [Wikisource](https://pl.wikisource.org/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Strona_g%C5%82%C3%B3wna) project were included, encoded in MediaWiki format and proofread by Wikisource editors. 
+The collected texts come from different sources.
+The initial set consisted of 100 novels from the [Polish ELTeC subcorpus](https://distantreading.github.io/ELTeC/pol/index.html), encoded in TEI format.
+Subsequently, an additional 193 texts from the [Wolne Lektury](https://wolnelektury.pl/) library were added. The Wolne Lektury data is accessible in a custom XML format that preserves paragraph boundary information.
+Next, 225 novels from the Polish edition of the [Wikisource](https://pl.wikisource.org/wiki/Wiki%C5%BAr%C3%B3d%C5%82a:Strona_g%C5%82%C3%B3wna) project were included, encoded in MediaWiki format and proofread by Wikisource editors.
 The [Polona](https://polona.pl) digital library, maintained by the National Library of Poland, served as the final source of texts. It provides scans of printed books along with the OCR-derived textual layer. Approx. 6,000 digitized volumes were retrieved from Polona, which, after merging multi-volume editions of novels, resulted in a total of 4,808 texts.
 
-Exactly one edition of each novel was selected from the 5,326 pieces of literary fiction that made up the original dataset. Texts that were not novels, that were written before or after the selected period, and that were set before 1815 were rejected. Duplicates were also identified and removed, resulting in a database of 1,707 unique novels. 
+Exactly one edition of each novel was selected from the 5,326 pieces of literary fiction that made up the original dataset. Texts that were not novels, that were written before or after the selected period, and that were set before 1815 were rejected. Duplicates were also identified and removed, resulting in a database of 1,707 unique novels.
 
 ### Balancing criteria
 
-The corpus was balanced historically and geographically. Since it was impossible to achieve equal proportions between the classes, we determined the minimum and maximum share of a particular text class in the corpus. Our priority was to balance the corpus based on the date and place of publication. 
+The corpus was balanced historically and geographically. Since it was impossible to achieve equal proportions between the classes, we determined the minimum and maximum share of a particular text class in the corpus. Our priority was to balance the corpus based on the date and place of publication.
 1. Date: three literary eras distinguished in Polish literary studies determined by the date of first publication (>= 20% each)
    - Positivism (1864–1890)
    - Young Poland (1890–1918)
@@ -91,14 +91,24 @@ tco:metapnc_b_246 a tco:Text,
     schema:genre "Novel" ;
     owl:sameAs <http://polona.pl/item/84911046> .
 ```
-  
+
 #### Ontology (PH)
 - ontology description
 - ontology visualization
 ![](TCO_ontology.jpg)
 
-## Corpus manual (MK)
-- code explanation
+## Data
+The texts collected in the corpus can be retrieved directly from their providers using `fetch-data.py` script.
+
+```
+python fetch-data.py
+```
+
+Note: The script requires [RDFLib](https://rdflib.readthedocs.io/) and [Requests](https://requests.readthedocs.io/) libraries to run.
+```
+pip install rdflib
+pip install requests
+```
 
 ## Licence
 
