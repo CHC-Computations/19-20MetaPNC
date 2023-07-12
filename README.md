@@ -48,7 +48,10 @@ The **Text Corpora Ontology** (TCO) is an ontology specifically designed for pub
 
 **TCO** employs existing ontologies, including [schema.org](https://schema.org/), [FOAF](http://xmlns.com/foaf/0.1/), [BiRO](https://sparontologies.github.io/biro/current/biro.html#classes), [FaBiO](http://www.sparontologies.net/ontologies/fabio), and [Geographical Entity Ontology](https://www.ebi.ac.uk/ols/ontologies/geo). However, work on the ontology's final version is still underway.
 
+
+
 ![](TCO_ontology.jpg)
+
 
 
 #### Classes
