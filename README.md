@@ -44,11 +44,15 @@ The following proportions of titles were obtained for each balance criterion:
 ### Metadata (PH)
 #### Classes
 
-- Corpus
-- Text
-- Place
-- Partition
-- Epoch
+The corpus data model allows the following objects found in the collection to be described:
+- a single text,
+- the entities responsible for the single text, in particular persons and corporate authorities,
+- places of publication and other locations relevant to the balance of the corpus,
+- time periods, in particular literary epochs,
+- genres and subjects of the texts.
+
+In addition, a general Corpus class is also specified, representing a single set of texts.
+
 #### Classes attributes
 #### Classes relations
 #### Examples
