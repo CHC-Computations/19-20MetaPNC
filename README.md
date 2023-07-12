@@ -60,11 +60,17 @@ The **Text Corpora Ontology** (TCO) is an ontology specifically designed for pub
 
 In addition, a general Corpus class (**tco:Corpus**) is also specified, representing a single set of texts.
 
-#### Classes attributes
-#### Classes relations
+#### Classes attributes and relations
+
+The attributes of the individual classes comprising the ontology not only enable the description of basic bibliographic information, such as title, authorship, and place of publication, but also include attributes important to the process of corpus construction. These latter attributes have been identified based on an extensive analysis of existing text collections and their respective construction principles. For individual classes, these attributes might encompass:
+- **foaf:gender** and** schema:birthPlace** for **tco:Person**,
+- **tco:numberOfReissues**, **tco:numberOfTokens** and location of the place of publication in a particular partition (**tco:inPartition**) for **tco:Text**,
+- information on the literary period within which the text included in the corpus was written (**tco:inEpoch**).
+ 
+
 #### Examples
 
-The corpus data model was built on the basis of the general TCO ontology.
+The corpus data model was built on the basis of the general TCO ontology. Few examples for each class are presented below.
 
 ```turtle
 tco:metapnc_e_1572 a dcterms:PeriodOfTime ;
