@@ -94,10 +94,9 @@ tco:metapnc_b_246 a tco:Text,
 ## Licence
 
 The knowledge graph and code in the repository are made available under a Creative Commons Attribution International 4.0 licence [(CC BY)](https://creativecommons.org/licenses/by/4.0/).
-The texts in the corpus are in the public domain. 
+The texts in the corpus are in the public domain. Detailed information about the licences can be found at the following links:
 
-Licences:
-- Polona
+- [Polona](https://polona.pl/static/polona/22d8f8e5-078f-41f1-93ed-daceb2ef98c7)
 - [Wolne Lektury](https://wolnelektury.pl/info/zasady-wykorzystania/)
 - [Wikisource](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pl)
 
