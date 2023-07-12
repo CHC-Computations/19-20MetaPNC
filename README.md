@@ -63,8 +63,8 @@ In addition, a general Corpus class (**tco:Corpus**) is also specified, represen
 #### Classes attributes and relations
 
 The attributes of the individual classes comprising the ontology not only enable the description of basic bibliographic information, such as title, authorship, and place of publication, but also include attributes important to the process of corpus construction. These latter attributes have been identified based on an extensive analysis of existing text collections and their respective construction principles. For individual classes, these attributes might encompass:
-- **foaf:gender** and** schema:birthPlace** for **tco:Person**,
-- **tco:numberOfReissues**, **tco:numberOfTokens** and location of the place of publication in a particular partition (**tco:inPartition**) for **tco:Text**,
+- **foaf:gender** and **schema:birthPlace** for **tco:Person** class,
+- **tco:numberOfReissues**, **tco:numberOfTokens** and location of the place of publication in a particular partition (**tco:inPartition**) for **tco:Text** class,
 - information on the literary period within which the text included in the corpus was written (**tco:inEpoch**).
  
 
