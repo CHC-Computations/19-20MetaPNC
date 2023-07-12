@@ -41,10 +41,8 @@ The following proportions of titles were obtained for each balance criterion:
   <img src="balancing_criteria.jpg" alt="Balancing criteria" width="65%">
 </p>
 
-### Metadata (PH)
 
-
-#### Ontology (PH)
+#### Text Corpora Ontology
 The **Text Corpora Ontology** (TCO) is an ontology specifically designed for publishing text corpora within a Semantic Web environment. This ontology mainly identifies the objects and their relations through bibliographic connections that occur between written documents, such as books, journal articles, and conference papers. However, the ontology also extends to include elements that are pertinent from the standpoint of corpus creation. These elements encompass the balance, representativeness, and relevance of the corpus to the problem being addressed by the algorithm trained using the prepared set of texts.
 
 **TCO** employs existing ontologies, including [schema.org](https://schema.org/), [FOAF](http://xmlns.com/foaf/0.1/), [BiRO](https://sparontologies.github.io/biro/current/biro.html#classes), [FaBiO](http://www.sparontologies.net/ontologies/fabio), and [Geographical Entity Ontology](https://www.ebi.ac.uk/ols/ontologies/geo). However, work on the ontology's final version is still underway.
@@ -54,7 +52,6 @@ The **Text Corpora Ontology** (TCO) is an ontology specifically designed for pub
 
 #### Classes
 
-The corpus data model was built on the basis of the general TCO ontology and allows the following objects found in the collection to be described:
 - a single text (**tco:Text**),
 - the entities responsible for the single text, in particular persons (**tco:Person**),
 - places of publication and other locations relevant to the balance of the corpus (**tco:Place** and **tco:Partition**),
@@ -66,6 +63,9 @@ In addition, a general Corpus class (**tco:Corpus**) is also specified, represen
 #### Classes attributes
 #### Classes relations
 #### Examples
+
+The corpus data model was built on the basis of the general TCO ontology.
+
 ```turtle
 tco:metapnc_e_1572 a dcterms:PeriodOfTime ;
     rdfs:label "Interwar period" ;
