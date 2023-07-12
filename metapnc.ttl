@@ -1066,7 +1066,7 @@ tco:metapnc_b_1000 a tco:Text,
     dcterms:title "Dwór w Haliniszkach" ;
     fabio:hasPlaceOfPublication tco:metapnc_g_1413,
         tco:metapnc_g_1418 ;
-    schema:contentUrl <https://distantreading.github.io/ELTeC/pol/nan.html> ;
+    schema:contentUrl <https://distantreading.github.io/ELTeC/pol/POL0013.html> ;
     schema:genre "Novel" ;
     owl:sameAs <http://distantreading.github.io/ELTeC/pol/POL0013> .
 
@@ -2129,7 +2129,7 @@ tco:metapnc_b_169 a tco:Text,
     dcterms:subject "Plot after the Congress of Vienna" ;
     dcterms:title "Kędy droga?" ;
     fabio:hasPlaceOfPublication tco:metapnc_g_1418 ;
-    schema:contentUrl <https://distantreading.github.io/ELTeC/pol/nan.html> ;
+    schema:contentUrl <https://distantreading.github.io/ELTeC/pol/POL0005.html> ;
     schema:genre "Novel" ;
     owl:sameAs <http://distantreading.github.io/ELTeC/pol/POL0005> .
 
@@ -7048,7 +7048,7 @@ tco:metapnc_b_484 a tco:Text,
     dcterms:subject "Plot after the Congress of Vienna" ;
     dcterms:title "Czarne godziny" ;
     fabio:hasPlaceOfPublication tco:metapnc_g_1412 ;
-    schema:contentUrl <https://distantreading.github.io/ELTeC/pol/nan.html> ;
+    schema:contentUrl <https://distantreading.github.io/ELTeC/pol/POL0043.html> ;
     schema:genre "Novel" ;
     owl:sameAs <http://distantreading.github.io/ELTeC/pol/POL0043> .
 
@@ -7429,7 +7429,7 @@ tco:metapnc_b_508 a tco:Text,
     dcterms:subject "Plot after the Congress of Vienna" ;
     dcterms:title "Po mlecznej drodze" ;
     fabio:hasPlaceOfPublication tco:metapnc_g_1403 ;
-    schema:contentUrl <https://distantreading.github.io/ELTeC/pol/nan.html> ;
+    schema:contentUrl <https://distantreading.github.io/ELTeC/pol/POL0100.html> ;
     schema:genre "Novel" ;
     owl:sameAs <http://distantreading.github.io/ELTeC/pol/POL0100> .
 
@@ -7597,7 +7597,7 @@ tco:metapnc_b_519 a tco:Text,
     dcterms:subject "Plot after the Congress of Vienna" ;
     dcterms:title "Bożek Miljon" ;
     fabio:hasPlaceOfPublication tco:metapnc_g_1418 ;
-    schema:contentUrl <https://distantreading.github.io/ELTeC/pol/nan.html> ;
+    schema:contentUrl <https://distantreading.github.io/ELTeC/pol/POL0046.html> ;
     schema:genre "Novel" ;
     owl:sameAs <http://distantreading.github.io/ELTeC/pol/POL0046> .
 
@@ -7667,7 +7667,7 @@ tco:metapnc_b_523 a tco:Text,
     dcterms:subject "Plot after the Congress of Vienna" ;
     dcterms:title "Mężowie i żony" ;
     fabio:hasPlaceOfPublication tco:metapnc_g_1418 ;
-    schema:contentUrl <https://distantreading.github.io/ELTeC/pol/nan.html> ;
+    schema:contentUrl <https://distantreading.github.io/ELTeC/pol/POL0047.html> ;
     schema:genre "Novel" ;
     owl:sameAs <http://distantreading.github.io/ELTeC/pol/POL0047> .
 
@@ -13454,7 +13454,7 @@ tco:metapnc_b_894 a tco:Text,
     dcterms:subject "Plot after the Congress of Vienna" ;
     dcterms:title "Święty ogień" ;
     fabio:hasPlaceOfPublication tco:metapnc_g_1418 ;
-    schema:contentUrl <https://distantreading.github.io/ELTeC/pol/nan.html> ;
+    schema:contentUrl <https://distantreading.github.io/ELTeC/pol/POL0080.html> ;
     schema:genre "Novel" ;
     owl:sameAs <http://distantreading.github.io/ELTeC/pol/POL0080> .
 
@@ -13764,7 +13764,7 @@ tco:metapnc_b_913 a tco:Text,
     dcterms:subject "Plot after the Congress of Vienna" ;
     dcterms:title "Drygałowie" ;
     fabio:hasPlaceOfPublication tco:metapnc_g_1418 ;
-    schema:contentUrl <https://distantreading.github.io/ELTeC/pol/nan.html> ;
+    schema:contentUrl <https://distantreading.github.io/ELTeC/pol/POL0076.html> ;
     schema:genre "Novel" ;
     owl:sameAs <http://distantreading.github.io/ELTeC/pol/POL0076> .
 
@@ -14227,7 +14227,7 @@ tco:metapnc_b_943 a tco:Text,
     dcterms:subject "Plot after the Congress of Vienna" ;
     dcterms:title "Gromada" ;
     fabio:hasPlaceOfPublication tco:metapnc_g_1418 ;
-    schema:contentUrl <https://distantreading.github.io/ELTeC/pol/nan.html> ;
+    schema:contentUrl <https://distantreading.github.io/ELTeC/pol/POL0082.html> ;
     schema:genre "Novel" ;
     owl:sameAs <http://distantreading.github.io/ELTeC/pol/POL0082> .
 
@@ -14241,7 +14241,7 @@ tco:metapnc_b_944 a tco:Text,
     dcterms:subject "Plot after the Congress of Vienna" ;
     dcterms:title "Narodziny działacza" ;
     fabio:hasPlaceOfPublication tco:metapnc_g_1418 ;
-    schema:contentUrl <https://distantreading.github.io/ELTeC/pol/nan.html> ;
+    schema:contentUrl <https://distantreading.github.io/ELTeC/pol/POL0083.html> ;
     schema:genre "Novel" ;
     owl:sameAs <http://distantreading.github.io/ELTeC/pol/POL0083> .
 
