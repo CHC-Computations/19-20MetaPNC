@@ -23,6 +23,8 @@ The [Polona](https://polona.pl) digital library, maintained by the National Libr
 Exactly one edition of each novel was selected from the 5,326 pieces of literary fiction that made up the original dataset. Texts that were not novels, that were written before or after the selected period, and that were set before 1815 were rejected. Duplicates were also identified and removed, resulting in a database of 1,707 unique novels. 
 
 ### Balancing criteria:
+
+As it was not possible to maintain equal proportions between classes, we determined the minimum and maximum share of a particular text class in the corpus. 
 1. Date: three literary eras distinguished in Polish literary studies determined by the date of first publication (>= 20% each)
    - Positivism (1864–1890)
    - Young Poland (1890–1918)
@@ -33,9 +35,10 @@ Exactly one edition of each novel was selected from the 5,326 pieces of literary
    - no more than 2 reprints >= 30%
    - more than 2 reprints >= 30%
 
-     
+We obtained the following proportions of titles for each balance criterion:
+
 <p align="center">
-<img src="balancing_criteria.png" alt="Balancing criteria" width="75%">
+  <img src="balancing_criteria.jpg" alt="Balancing criteria" width="65%">
 </p>
 
 ### Metadata (PH)
