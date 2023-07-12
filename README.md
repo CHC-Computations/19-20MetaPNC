@@ -45,8 +45,9 @@ The following proportions of titles were obtained for each balance criterion:
 
 
 #### Ontology (PH)
-- ontology description
-- ontology visualization
+The **Text Corpora Ontology** (TCO) is an ontology specifically designed for publishing text corpora within a Semantic Web environment. This ontology mainly identifies the objects and their relations through bibliographic connections that occur between written documents, such as books, journal articles, and conference papers. However, the ontology also extends to include elements that are pertinent from the standpoint of corpus creation. These elements encompass the balance, representativeness, and relevance of the corpus to the problem being addressed by the algorithm trained using the prepared set of texts.
+
+
 ![](TCO_ontology.jpg)
 
 
