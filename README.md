@@ -38,13 +38,9 @@ The corpus was balanced historically and geographically. Since it was impossible
 
 The following proportions of titles were obtained for each balance criterion:
 
-
-
 <p align="center">
   <img src="balancing_criteria.jpg" alt="Balancing criteria" width="65%">
 </p>
-
-
 
 ### Text Corpora Ontology
 The **Text Corpora Ontology** (TCO) is an ontology specifically designed for publishing text corpora within a Semantic Web environment. This ontology mainly identifies the objects and their relations through bibliographic connections that occur between written documents, such as books, journal articles, and conference papers. However, the ontology also extends to include elements that are pertinent from the standpoint of corpus creation. These elements encompass the balance, representativeness, and relevance of the corpus to the problem being addressed by the algorithm trained using the prepared set of texts.
@@ -52,9 +48,7 @@ The **Text Corpora Ontology** (TCO) is an ontology specifically designed for pub
 **TCO** employs existing ontologies, including [schema.org](https://schema.org/), [FOAF](http://xmlns.com/foaf/0.1/), [BiRO](https://sparontologies.github.io/biro/current/biro.html#classes), [FaBiO](http://www.sparontologies.net/ontologies/fabio), and [Geographical Entity Ontology](https://www.ebi.ac.uk/ols/ontologies/geo). However, work on the ontology's final version is still underway.
 
 
-
 ![](TCO_ontology.jpg)
-
 
 
 #### Classes
