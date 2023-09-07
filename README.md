@@ -10,7 +10,7 @@ Following Linked Open Data (LOD) standards, we do not publish the corpus texts i
 - **Marek Kubis**, Adam Mickiewicz University in Poznan
 - **Cezary Rosiński**, Institute of Literary Research of the Polish Academy of Sciences
 - **Agnieszka Karlińska**, NASK National Research Institute
-- **Patryk Hubar**, Institute of Literary Research of the Polish Academy of Sciences | Univeristy of Warsaw
+- **Patryk Hubar**, Institute of Literary Research of the Polish Academy of Sciences | University of Warsaw
 - **Jan Wieczorek**, Wroclaw University of Science and Technology
 
 ## Corpus design
