@@ -39,7 +39,7 @@ The corpus was balanced historically and geographically. Since it was impossible
 The following proportions of titles were obtained for each balance criterion:
 
 <p align="center">
-  <img src="Meta_tree.png" alt="Balancing criteria" width="65%">
+  <img src="Meta_tree.png" alt="Balancing criteria" width="75%">
 </p>
 
 ### Text Corpora Ontology
